@@ -1,0 +1,79 @@
+{
+  "proyecto": {
+    "nombre": "Análisis Economía Cubana",
+    "fecha_actualizacion": "",
+    "investigador": "Fabio Enrique"
+  },
+  "mypimes": [
+    {
+      "id": "MYPIME-001",
+      "datos_generales": {
+        "nombre": "",
+        "estado": ""
+    },
+      "ubicacion": {
+        "provincia": "",
+        "municipio": "",
+        "direccion_exacta": "",
+        "coordenadas": {
+          "latitud": "",
+          "longitud":"" 
+        }
+      },
+      "informacion_contacto": {
+        "telefono": "",
+        "email": "",
+        "redes_sociales": [
+          "",
+          ""
+        ]
+      },
+      "caracteristicas_negocio": {
+        "sector_principal": "",
+        "tipo_negocio": "servicios",
+        "mercado_objetivo": ["local", "internacional"],
+        "modalidad_venta": ["presencial", "online"]
+      },
+      "productos_servicios": [
+        {
+          "id_producto": "PROD-001",
+          "nombre": "",
+          "categoria": "",
+          "precio": 0,
+          "moneda": "CUP",
+          "descripcion": "",
+         "precios_competencia": {
+        "precio_referencia_mlc": 0,
+        "precio_referencia_revolico": 0,
+        "precio_referencia_estatal": 0
+        }
+    }
+      
+      ],
+    
+      "finanzas": {
+        "monedas_aceptadas": ["USD", "CUP"],
+        "metodos_pago": ["efectivo", "transferencia"]
+
+      },
+      "observaciones": {
+        "fecha_visita": "",
+        "fotos": [".jpg"],
+        "notas_campo": "Local bien ubicado",
+        "calificacion_calidad": 0
+      }
+    }
+],
+  "resumen": {
+    "total_mypimes": 0,
+    "fecha_recoleccion_inicio": "",
+    "fecha_recoleccion_fin": "",
+    "fuentes_datos": ["visita_presencial"]
+  }
+}
+    
+    
+   
+ 
+    
+
