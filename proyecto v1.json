@@ -58,7 +58,7 @@
       },
       "observaciones": {
         "fecha_visita": "",
-        "fotos": [".jpg"],
+        "fotos": ["..jpg"],
         "notas_campo": "Local bien ubicado",
         "calificacion_calidad": 0
       }
