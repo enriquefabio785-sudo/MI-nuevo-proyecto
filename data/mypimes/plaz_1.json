@@ -1,0 +1,215 @@
+{"ID":"001",
+ "municipio":"Plaza",
+ "coordenadas":"23.12406, -82.38129",
+ "productos":[
+        {
+          "tipo": "arroz",
+          "marca": "Cies",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 650
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Azucar Cristal",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 700
+        },
+         {
+          "tipo": "leche",
+          "marca": "La Cata",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 1975
+          
+        },    
+         {
+          "tipo": "galleta salada",
+          "marca": "Salti Blcks",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1190
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Salti Blcks",
+          "unidad": "gr",
+          "pesaje": 85,
+          "precio": 170
+         },
+         {
+          "tipo": "dulce(donut)",
+          "marca": "Lingo",
+          "unidad": "gr",
+          "pesaje": 45,
+          "precio": 150
+         },
+         {
+          "tipo": "dulce(panque)",
+          "marca": "Black White",
+          "unidad": "gr",
+          "pesaje": 40,
+          "precio": 150
+         },
+         {
+          "tipo": "esponja",
+          "marca": "Zaas!",
+          "precio": 100
+         },
+         {
+          "tipo": "jabon",
+          "marca": "Marwa",
+          "unidad": "gr",
+          "pesaje": 120,
+          "precio": 160
+         },
+         {
+          "tipo": "protector solar",
+          "marca": "Saniye",
+          "unidad": "gr",
+          "pesaje": 100,
+          "precio": 2000
+         },
+         {
+          "tipo": "fosforera",
+          "precio": 100
+         },
+         {
+          "tipo": "dulce(rollo de pastel)",
+          "marca": "Roll Choco",
+          "unidad": "gr",
+          "pesaje": 40,
+          "precio": 140
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Hello",
+          "unidad": "gr",
+          "pesaje": 55,
+          "precio": 160
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Laila",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 450
+         },
+         {
+          "tipo": "dulce(aritos)",
+          "marca": "Sun Cereal",
+          "unidad": "gr",
+          "pesaje": 250,
+          "precio": 850
+         },
+         {
+          "tipo": "vino seco",
+          "marca": "El Delicioso",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 390
+         },
+         {
+          "tipo": "espaguetis",
+          "marca": "zenova",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "fideos",
+          "marca": "Comarrico",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 280
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Napolitana",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "crema dulce",
+          "marca": "Media Crema",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 450
+         },
+         {
+          "tipo": "zumo de limon",
+          "marca": "criollo",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 390
+         },
+         {
+          "tipo": "vinagre",
+          "marca": "El Delicioso",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 390
+         },
+         {
+          "tipo": "detergente liquido",
+          "marca": "Limpro",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 510
+         },
+         {
+          "tipo": "friegasuelos",
+          "marca": "Lmpro",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 480
+         },
+         {
+          "tipo": "desincrustante",
+          "marca": "Limpro",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 450
+         },
+         {
+          "tipo": "desengrasante",
+          "marca": "Limpro",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 370
+         },
+         {
+          "tipo": "refresco de paquete",
+          "marca": "Tuti Tuti",
+          "unidad": "ml",
+          "rendimiento": 1500,
+          "precio": 50
+         },
+         {
+          "tipo": "comino",
+          "marca": "Sibarita",
+          "unidad": "gr",
+          "pesaje": 4,
+          "precio": 70
+         },
+        {
+          "tipo": "picadillo de pollo",
+          "unidad": "gr",
+          "pesaje": 450,
+          "precio": 360
+         }
+        
+    ]
+
+
+
+
+}
+    
+ 
+ 
+
+
+
