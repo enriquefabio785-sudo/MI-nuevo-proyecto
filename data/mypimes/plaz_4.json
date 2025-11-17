@@ -1,218 +1,225 @@
-{"ID":"002",
+{"ID":"004",
  "municipio":"Plaza",
- "coordenadas":"23.12598, -82.38265",
+ "coordenadas":"23.1244, -82.38061",
  "productos":[
         {
-          "tipo": "detergente en polvo",
-          "marca": "V&E",
-          "unidad": "gr",
-          "pesaje": 1000,
-          "precio": 490
+          "tipo": "refresco de pomo",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 1500,
+          "precio": 700
          },
          {
-          "tipo": "detergente liquido",
-          "marca": "Esil",
+          "tipo": "agua natural",
+          "marca": "Ciego Montero",
           "unidad": "ml",
-          "pesaje": 2000,
-          "precio": 2215
+          "pesaje": 1500,
+          "precio": 250
         },
          {
-          "tipo": "papel sanitario",
-          "marca": "Garbi",
-          "unidad": "#",
-          "pesaje": 6,
-          "precio": 1100
+          "tipo": "aceite",
+          "marca": "Sublime",
+          "unidad": "ml",
+          "pesaje": 900,
+          "precio": 890
           
         },    
          {
-          "tipo": "gel de baño",
-          "marca": "Lavane",
-          "unidad": "ml",
-          "pesaje": 1000,
-          "precio": 690
-         },
-         {
-          "tipo": "Champu",
-          "marca": "H&S",
-          "unidad": "ml",
-          "pesaje": 330,
-          "precio": 5050
-         },
-         {
-          "tipo": "intima",
-          "marca": "Full Support",
-          "unidad": "#",
-          "pesaje": 10,
-          "precio": 450
-         },
-         {
-          "tipo": "jabon",
-          "marca": "Mea",
+          "tipo": "dulce(galletas)",
+          "marca": "Black Out",
           "unidad": "gr",
-          "pesaje": 150,
-          "precio": 300
-         },
-         {
-          "tipo": "pañuelos",
-          "marca": "Essential Renova",
-          "unidad":"#",
-          "pesaje":10,
-          "precio": 820
+          "pesaje": 42,
+          "precio": 130
          },
          {
           "tipo": "dulce(galletas)",
-          "marca": "Bergen",
+          "marca": "Black Out",
           "unidad": "gr",
-          "pesaje": 130,
-          "precio": 740
+          "pesaje": 60,
+          "precio": 160
+         },
+         {
+          "tipo": "atun",
+          "marca": "Docanned Star",
+          "unidad": "gr",
+          "pesaje": 140,
+          "precio": 550
+         },
+         {
+          "tipo": "fanguito",
+          "marca": "criollo",
+          "unidad": "gr",
+          "pesaje": 340,
+          "precio": 600
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Vima",
+          "unidad":"gr",
+          "pesaje":400,
+          "precio": 550
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Saladitas",
+          "unidad": "gr",
+          "pesaje": 137,
+          "precio": 150
+         },
+         {
+          "tipo": "dulce(caramelos)",
+          "marca":"Freegells",
+          "unidad": "gr",
+          "pesaje": 27,
+          "precio": 100
          },
          {
           "tipo": "dulce(galletas)",
-          "marca": "Keyf",
+          "marca": "Porleo",
           "unidad": "gr",
-          "pesaje": 50,
-          "precio": 170
+          "pesaje": 42,
+          "precio": 140
          },
          {
           "tipo": "dulce(sorbetos)",
-          "marca": "Nutro",
+          "marca": "Rancheiro",
           "unidad": "gr",
-          "pesaje": 75,
-          "precio": 270
+          "pesaje": 78,
+          "precio": 250
          },
          {
           "tipo": "dulce(galletas)",
-          "marca": "Maria Bauducco",
+          "marca": "Rellenitas",
           "unidad": "gr",
-          "pesaje": 170,
-          "precio": 430
+          "pesaje": 36,
+          "precio": 130
 
          },
          {
           "tipo": "galleta salada",
-          "marca": "Salti Tacos",
+          "marca": "Crokantinas",
           "unidad": "gr",
           "pesaje": 595,
-          "precio": 1100
+          "precio": 1200
          },
          {
-          "tipo": "galleta salada",
-          "marca": "Goya Doradas",
+          "tipo": "coditos",
+          "marca": "DBA",
           "unidad": "gr",
-          "pesaje": 294,
-          "precio": 1120
+          "pesaje": 500,
+          "precio": 370
          },
          {
-          "tipo": "galleta salada",
-          "marca": "Goya Saltines",
+          "tipo": "coditos",
+          "marca": "Napolitana",
           "unidad": "gr",
-          "pesaje": 220,
-          "precio": 700
+          "pesaje": 500,
+          "precio": 360
          },
          {
-          "tipo": "dulce(rollo de pastel)",
-          "marca": "Cartoin Peanut",
-          "unidad": "gr",
-          "pesaje": 60,
-          "precio": 180
-         },
-         {
-          "tipo": "dulce(natillas)",
-          "marca": "Promolac",
-          "unidad": "gr",
-          "pesaje": 84,
-          "precio": 660
-         },
-         {
-          "tipo": "dulce(gelatina)",
-          "marca": "Promolac",
-          "unidad": "gr",
-          "pesaje": 170,
-          "precio": 880
-         },
-         {
-          "tipo": "alcohol(vino tinto)",
-          "marca": "Lopez de Haro",
+          "tipo": "refresco de paquete",
+          "marca": "Zuko",
           "unidad": "ml",
-          "pesaje": 750,
-          "precio": 4000
+          "rendimiento": 2000,
+          "precio": 100
+         },
+         {
+          "tipo": "cafe molido",
+          "marca": "Dufiltro",
+          "unidad": "gr",
+          "pesaje": 250,
+          "precio": 1600
+         },
+         {
+          "tipo": "harina",
+          "marca": "Dona Maria",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 600
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Celorrio",
+          "unidad": "ml",
+          "pesaje": 450,
+          "precio": 1550
+         },
+         {
+          "tipo": "arroz",
+          "marca": "Rainha",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 650
+         },
+         {
+          "tipo": "frijoles negros",
+          "marca": "Malu",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 900
+         },
+         {
+          "tipo": "sazon",
+          "marca": "Goya",
+          "unidad": "gr",
+          "pesaje": 5,
+          "precio": 80
          },
          {
           "tipo": "alcohol(whisky)",
           "marca": "Chanceler",
           "unidad": "ml",
           "pesaje": 1000,
-          "precio": 2045
-         },
-         {
-          "tipo": "alcohol(licor)",
-          "marca": "De Kuyper Blue Curacao",
-          "unidad": "ml",
-          "pesaje": 1000,
-          "precio": 4050
-         },
-         {
-          "tipo": "alcohol(whisky)",
-          "marca": "Chanceler",
-          "unidad": "ml",
-          "pesaje": 1000,
-          "precio": 1910
-         },
-         {
-          "tipo": "alcohol(whisky)",
-          "marca": "Chanceler",
-          "unidad": "ml",
-          "pesaje": 200,
-          "precio": 610
-         },
-         {
-          "tipo": "alcohol(vodka)",
-          "marca": "Principe Igor",
-          "unidad": "ml",
-          "pesaje": 700,
-          "precio": 5200
+          "precio": 1400
          },
          {
           "tipo": "refresco de lata",
-          "marca": "Ciego Montero",
+          "marca": "Max Booms Boom",
           "unidad": "ml",
-          "pesaje": 355,
-          "precio": 300
+          "pesaje": 330,
+          "precio": 230
          },
          {
-          "tipo": "refresco de lata",
-          "marca": "Iron Beer",
+          "tipo": "alcohol(energizante)",
+          "marca": "Shaka",
           "unidad": "ml",
-          "pesaje": 355,
-          "precio": 315
+          "pesaje": 250,
+          "precio": 370
          },
          {
-          "tipo": "refresco de lata",
-          "marca": "7 Up",
+          "tipo": "energizante",
+          "marca": "5 Shot",
           "unidad": "ml",
-          "pesaje": 355,
-          "precio": 340
+          "pesaje": 250,
+          "precio": 260
+         },
+         {
+          "tipo": "cerveza de pomo",
+          "marca": "Parranda",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 190
          },
         {
-          "tipo": "refresco de lata",
-          "marca":"Coca Cola",
-          "unidad": "ml",
-          "pesaje": 353,
-          "precio": 400
-         },
-         {
-          "tipo": "refresco de lata",
-          "marca":"Max Booms Boom",
+          "tipo": "malta de pomo",
+          "marca":"Guajira",
           "unidad": "ml",
           "pesaje": 330,
-          "precio": 250
+          "precio": 260
          },
          {
-          "tipo": "refresco de lata",
-          "marca":"Yelo",
+          "tipo": "cerveza de lata",
+          "marca":"Unlaguer",
           "unidad": "ml",
           "pesaje": 330,
-          "precio": 255
+          "precio": 230
+         },
+         {
+          "tipo": "agua natural",
+          "marca":"Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 150
          },
          {
           "tipo": "agua gaseada",
@@ -278,7 +285,7 @@
           "precio": 1110
          },
          {
-          "tipo": "acite",
+          "tipo": "aceite",
           "marca":"Sarita",
           "unidad": "ml",
           "pesaje": 900,
@@ -442,4 +449,3 @@
 
 
 }
-    
