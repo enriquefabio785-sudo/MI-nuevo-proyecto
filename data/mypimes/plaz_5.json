@@ -1,0 +1,279 @@
+{"ID":"005",
+ "municipio":"Plaza",
+ "coordenadas":"23.12934, -82.38332",
+ "productos":[
+        {
+          "tipo": "chocolate en polvo",
+          "marca": "Cola Cao",
+          "unidad": "gr",
+          "pesaje": 390,
+          "precio": 1600
+         },
+         {
+          "tipo": "dulce(caramelos)",
+          "marca": "Freegells",
+          "unidad": "gr",
+          "pesaje": 27,
+          "precio": 100
+        },
+         {
+          "tipo": "papitas",
+          "marca": "Kryzpo",
+          "unidad": "gr",
+          "pesaje": 130,
+          "precio": 800
+          
+        },    
+         {
+          "tipo": "zumo de limon",
+          "marca": "Nezka",
+          "unidad": "ml",
+          "pesaje": 946,
+          "precio": 1000
+         },
+         {
+          "tipo": "pollo",
+          "marca": "none",
+          "unidad": "gr",
+          "pesaje": 4500,
+          "precio": 3800
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Hatari",
+          "unidad": "gr",
+          "pesaje": 190,
+          "precio": 500
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Maria",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 400
+         },
+         {
+          "tipo": "garbanzos",
+          "marca": "Penelas",
+          "unidad":"gr",
+          "pesaje":500,
+          "precio": 1000
+         },
+         {
+          "tipo": "lentejas",
+          "marca": "Penelas",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 800
+         },
+         {
+          "tipo": "chicharo verde",
+          "marca":"Penelas",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 800
+         },
+         {
+          "tipo": "sazon",
+          "marca": "Sazon Supremo",
+          "unidad": "gr",
+          "pesaje": 255,
+          "precio": 1000
+         },
+         {
+          "tipo": "salsa china",
+          "marca": "Ranchero",
+          "unidad": "ml",
+          "pesaje": 300,
+          "precio": 1000
+         },
+         {
+          "tipo": "cafe molido",
+          "marca": "Aroma",
+          "unidad": "gr",
+          "pesaje": 250,
+          "precio": 1900
+
+         },
+         {
+          "tipo": "cafe espresso",
+          "marca": "Sello Rojo",
+          "unidad": "gr",
+          "pesaje": 293,
+          "precio": 2000
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Celorrio",
+          "unidad": "gr",
+          "pesaje": 450,
+          "precio": 1450
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Hola",
+          "unidad": "gr",
+          "pesaje": 70,
+          "precio": 250
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Victoria",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 550
+         },
+         {
+          "tipo": "maiz en grano",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 425,
+          "precio": 600
+         },
+         {
+          "tipo": "vinagre",
+          "marca": "Aldaketa",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 750
+         },
+         {
+          "tipo": "chicle",
+          "marca": "Doublemint",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 50
+         },
+         {
+          "tipo": "caja de cigarros",
+          "marca": "Englishman",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 500
+         },
+         {
+          "tipo": "pasta dental",
+          "marca": "Deemah",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 500
+         },
+         {
+          "tipo": "maquina de afeitar",
+          "marca": "none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 100
+         },
+         {
+          "tipo": "cepillo dental",
+          "marca": "Marwa",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 150
+         },
+         {
+          "tipo": "intima",
+          "marca": "My A+",
+          "unidad": "#",
+          "pesaje": 10,
+          "precio": 450
+         },
+         {
+          "tipo": "intima",
+          "marca": "Sueños Ultra",
+          "unidad": "#",
+          "pesaje": 10,
+          "precio": 450
+         },
+         {
+          "tipo": "toallitas humedas",
+          "marca": "Dex",
+          "unidad": "gr",
+          "pesaje": 75,
+          "precio": 600
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Santa",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+        {
+          "tipo": "malta de pomo",
+          "marca":"Guajira",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 300
+         },
+         {
+          "tipo": "malta de lata",
+          "marca":"Perla Negra",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 300
+         },
+         {
+          "tipo": "agua natural",
+          "marca":"Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 180
+         },,
+         {
+          "tipo": "alcohol(whisky)",
+          "marca":"Royal Special",
+          "unidad": "ml",
+          "pesaje": 300,
+          "precio": 550
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca":"La Excelencia",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 580
+         },
+         {
+          "tipo": "frazada de piso",
+          "marca":"none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 300
+         },
+         {
+          "tipo": "champu",
+          "marca":"Gilar",
+          "unidad": "ml",
+          "pesaje": 400,
+          "precio": 900
+         },
+         {
+          "tipo": "desodorante",
+          "marca":"Miya",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 580
+         },
+         {
+          "tipo": "detergente en polvo",
+          "marca":"Sparkle Wash",
+          "unidad": "gr",
+          "pesaje": 900,
+          "precio": 565
+         },
+         {
+          "tipo": "detergente liquido",
+          "marca":"Kapital",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 750
+         }
+        
+        
+        
+        
+    ]
+
+}

@@ -120,7 +120,7 @@
           "tipo": "refresco de paquete",
           "marca": "Zuko",
           "unidad": "ml",
-          "rendimiento": 2000,
+          "pesaje": 2000,
           "precio": 100
          },
          {
@@ -222,230 +222,58 @@
           "precio": 150
          },
          {
-          "tipo": "agua gaseada",
-          "marca":"Ciego Montero",
+          "tipo": "alcohol(whisky)",
+          "marca":"Royal Special",
           "unidad": "ml",
-          "pesaje": 353,
-          "precio": 400
+          "pesaje": 300,
+          "precio": 550
          },
          {
-          "tipo": "agua natural",
-          "marca":"Planeta Azul",
-          "unidad": "ml",
-          "pesaje": 500,
-          "precio": 185
+          "tipo": "papel sanitario",
+          "marca":"La Excelencia",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 580
          },
          {
-          "tipo": "cerveza de botella",
-          "marca":"Estrella Galicia",
-          "unidad": "ml",
-          "pesaje": 330,
-          "precio": 350
+          "tipo": "frazada de piso",
+          "marca":"none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 300
          },
          {
-          "tipo": "energizante",
-          "marca":"Pantera Pardus",
+          "tipo": "champu",
+          "marca":"Gilar",
           "unidad": "ml",
-          "pesaje": 250,
-          "precio": 470
-         },
-         {
-          "tipo": "refresco de pomo",
-          "marca":"Ciego Montero",
-          "unidad": "ml",
-          "pesaje": 1500,
-          "precio": 730
-         },
-         {
-          "tipo": "picadillo de pollo",
-          "marca":"Guibon",
-          "unidad": "gr",
           "pesaje": 400,
-          "precio": 470
+          "precio": 900
          },
          {
-          "tipo": "refresco de lata",
-          "marca":"Coca Cola",
-          "unidad": "ml",
-          "pesaje": 353,
-          "precio": 400
+          "tipo": "desodorante",
+          "marca":"Miya",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 580
          },
          {
-          "tipo": "leche liquida",
-          "marca":"Vima",
-          "unidad": "ml",
-          "pesaje": 1000,
-          "precio": 1020
-         },
-         {
-          "tipo": "leche liquida",
-          "marca":"Asturiana",
-          "unidad": "ml",
-          "pesaje": 1000,
-          "precio": 1110
-         },
-         {
-          "tipo": "aceite",
-          "marca":"Sarita",
-          "unidad": "ml",
+          "tipo": "detergente en polvo",
+          "marca":"Sparkle Wash",
+          "unidad": "gr",
           "pesaje": 900,
-          "precio": 890
+          "precio": 565
          },
          {
-          "tipo": "cafe molido",
-          "marca":"Coaliment",
-          "unidad": "gr",
-          "pesaje": 250,
-          "precio": 2330
-         },
-         {
-          "tipo": "leche condensada",
-          "marca":"Pronto",
-          "unidad": "gr",
-          "pesaje": 380,
-          "precio": 820
-         },
-         {
-          "tipo": "sal",
-          "marca":"Marcum",
-          "unidad": "gr",
-          "pesaje": 737,
-          "precio": 600
-         },
-         {
-          "tipo": "refresco de lata",
-          "marca":"Coca Cola",
+          "tipo": "detergente liquido",
+          "marca":"Kapital",
           "unidad": "ml",
-          "pesaje": 353,
-          "precio": 400
-         },
-         {
-          "tipo": "mayonesa",
-          "marca":"Hellmans",
-          "unidad": "gr",
-          "pesaje": 360,
-          "precio": 990
-         },
-         {
-          "tipo": "pasta de bocaditos",
-          "marca":"Aldaketa",
-          "unidad": "ml",
-          "pesaje": 465,
-          "precio": 2360
-         },
-         {
-          "tipo": "mayonesa",
-          "marca":"Vola",
-          "unidad": "ml",
-          "pesaje": 465,
-          "precio": 1450
-         },
-         {
-          "tipo": "crema de cafe",
-          "marca":"McDaniel",
-          "unidad": "gr",
-          "pesaje": 425,
-          "precio": 1840
-         },
-         {
-          "tipo": "crema de cafe",
-          "marca":"McDaniel",
-          "unidad": "gr",
-          "pesaje": 454,
-          "precio": 1760
-         },
-         {
-          "tipo": "salsa picante",
-          "marca":"La Costeña",
-          "unidad": "ml",
-          "pesaje": 970,
-          "precio": 1980
-         },
-         {
-          "tipo": "mostaza",
-          "marca":"La Costeña",
-          "unidad": "gr",
-          "pesaje": 220,
-          "precio": 800
-         },
-         {
-          "tipo": "refresco de paquete",
-          "marca":"Zuko",
-          "unidad": "ml",
-          "rendimiento": 2000,
-          "precio": 150
-         },
-         {
-          "tipo": "espaguetis",
-          "marca":"Fresko",
-          "unidad": "gr",
-          "pesaje": 500,
-          "precio": 320
-         },
-         {
-          "tipo": "dulce(caramelos)",
-          "marca":"Freegells",
-          "unidad": "gr",
-          "pesaje": 27,
-          "precio": 120
-         },
-         {
-          "tipo": "lentejas",
-          "marca":"Puñado",
-          "unidad": "gr",
-          "pesaje": 220,
-          "precio": 800
-         },
-         {
-          "tipo": "frijoles blancos",
-          "marca":"Puñado",
-          "unidad": "gr",
-          "pesaje": 500,
-          "precio": 800
-         },
-         {
-          "tipo": "arroz",
-          "marca":"Vola",
-          "unidad": "gr",
-          "pesaje": 1000,
-          "precio": 650
-         },
-         {
-          "tipo": "pasta de tomate",
-          "marca":"Vola",
-          "unidad": "gr",
-          "pesaje": 400,
-          "precio": 540
+          "pesaje": 750,
+          "precio": 750
          }
-         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-        
-        
-        
-        
-        
-        
-        
-        
         
         
         
         
     ]
-
-
-
 
 }

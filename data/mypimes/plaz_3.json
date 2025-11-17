@@ -1,119 +1,120 @@
-{"ID":"003",
- "municipio":"Plaza",
- "coordenadas":"23.12636, -82.38299",
- "productos":[
-        {
-          "tipo": "dulce(sorbetos)",
-          "marca": "Renata",
-          "unidad": "gr",
-          "pesaje": 115,
-          "precio": 300
-         },
-         {
-          "tipo": "dulce(sorbetos)",
-          "marca": "Rancheiro",
-          "unidad": "gr",
-          "pesaje": 78,
-          "precio": 300
-        },
-         {
-          "tipo": "dulce(galletas)",
-          "marca": "Black Out",
-          "unidad": "gr",
-          "pesaje": 42,
-          "precio": 165
-          
-        },    
-         {
-          "tipo": "dulce(rollo de pastel)",
-          "marca": "Fikir Fikir",
-          "unidad": "gr",
-          "pesaje": 32,
-          "precio": 135
-         },
-         {
-          "tipo": "galleta salada",
-          "marca": "Salti Tacos",
-          "unidad": "gr",
-          "pesaje": 595,
-          "precio": 1400
-         },
-         {
-          "tipo": "cafe espresso",
-          "marca": "Ziva",
-          "unidad": "gr",
-          "pesaje": 283,
-          "precio": 1750
-         },
-         {
-          "tipo": "dulce(galletas)",
-          "marca": "Cocktail",
-          "unidad": "gr",
-          "pesaje": 200,
-          "precio": 480
-         },
-         {
-          "tipo": "energizante",
-          "marca": "Go+",
-          "unidad":"ml",
-          "pesaje":250,
-          "precio": 300
-         },
-         {
-          "tipo": "energizante",
-          "marca": "XL",
-          "unidad": "ml",
-          "pesaje": 250,
-          "precio": 300
-         },
-         {
-          "tipo": "refresco de pomo",
-          "marca": "Ciego Montero",
-          "unidad": "ml",
-          "pesaje": 1500,
-          "precio": 750
-         },
-         {
-          "tipo": "agua matural",
-          "marca": "Ciego Montero",
-          "unidad": "ml",
-          "pesaje": 1500,
-          "precio": 300
-         },
-         {
-          "tipo": "caja de cigarros",
-          "marca": "H Upmann",
-          "precio": 600
-         },
-         {
-          "tipo": "caja de cigarros",
-          "marca": "Popular",
-          "precio": 700
-         },
-         {
-          "tipo": "caja de cigarros",
-          "marca": "Englishman",
-          "precio": 650
-         },
-         {
-          "tipo": "galleta salada",
-          "marca": "Saladitas",
-          "unidad": "gr",
-          "pesaje": 137,
-          "precio": 175
-         },
-         {
-          "tipo": "refresco de paquete",
-          "marca": "Bonero",
-          "unidad": "ml",
-          "rendimiento": 2000,
-          "precio": 40
-         }
-
-        
-    ]
-
-
-
-
+{
+  "ID": "003",
+  "municipio": "Plaza",
+  "coordenadas": "23.12636, -82.38299",
+  "productos": [
+    {
+      "tipo": "dulce(sorbetos)",
+      "marca": "Renata",
+      "unidad": "gr",
+      "pesaje": 115,
+      "precio": 300
+    },
+    {
+      "tipo": "dulce(sorbetos)",
+      "marca": "Rancheiro",
+      "unidad": "gr",
+      "pesaje": 78,
+      "precio": 300
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "Black Out",
+      "unidad": "gr",
+      "pesaje": 42,
+      "precio": 165
+    },
+    {
+      "tipo": "dulce(rollo de pastel)",
+      "marca": "Fikir Fikir",
+      "unidad": "gr",
+      "pesaje": 32,
+      "precio": 135
+    },
+    {
+      "tipo": "galleta salada",
+      "marca": "Salti Tacos",
+      "unidad": "gr",
+      "pesaje": 595,
+      "precio": 1400
+    },
+    {
+      "tipo": "cafe espresso",
+      "marca": "Ziva",
+      "unidad": "gr",
+      "pesaje": 283,
+      "precio": 1750
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "Cocktail",
+      "unidad": "gr",
+      "pesaje": 200,
+      "precio": 480
+    },
+    {
+      "tipo": "energizante",
+      "marca": "Go+",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 300
+    },
+    {
+      "tipo": "energizante",
+      "marca": "XL",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 300
+    },
+    {
+      "tipo": "refresco de pomo",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 1500,
+      "precio": 750
+    },
+    {
+      "tipo": "agua matural",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 1500,
+      "precio": 300
+    },
+    {
+      "tipo": "caja de cigarros",
+      "marca": "H Upmann",
+      "unidad": "none",
+      "pesaje": "none",
+      "precio": 600
+    },
+    {
+      "tipo": "caja de cigarros",
+      "marca": "Popular",
+      "unidad": "none",
+      "pesaje": "none",
+      "precio": 700
+    },
+    {
+      "tipo": "caja de cigarros",
+      "marca": "Englishman",
+      "unidad": "none",
+      "pesaje": "none",
+      "precio": 650
+    },
+    {
+      "tipo": "galleta salada",
+      "marca": "Saladitas",
+      "unidad": "gr",
+      "pesaje": 137,
+      "precio": 175
+    },
+    {
+      "tipo": "refresco de paquete",
+      "marca": "Bonero",
+      "unidad": "ml",
+      "pesaje": "none",
+      "rendimiento": 2000,
+      "precio": 40
+    }
+  ]
 }
