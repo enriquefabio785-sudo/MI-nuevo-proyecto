@@ -166,32 +166,32 @@
           "precio": 100
          },
          {
-          "tipo": "cepillo dental",
-          "marca": "Marwa",
-          "unidad": "none",
-          "pesaje": "none",
-          "precio": 150
-         },
-         {
-          "tipo": "intima",
-          "marca": "My A+",
-          "unidad": "#",
-          "pesaje": 10,
+          "tipo": "alcohol(energizante)",
+          "marca": "Shaka",
+          "unidad": "ml",
+          "pesaje": 250,
           "precio": 450
          },
          {
-          "tipo": "intima",
-          "marca": "Sueños Ultra",
-          "unidad": "#",
-          "pesaje": 10,
-          "precio": 450
+          "tipo": "refresco de lata",
+          "marca": "Sunchy",
+          "unidad": "ml",
+          "pesaje": 334,
+          "precio": 300
          },
          {
-          "tipo": "toallitas humedas",
-          "marca": "Dex",
-          "unidad": "gr",
-          "pesaje": 75,
-          "precio": 600
+          "tipo": "energizante",
+          "marca": "Ener Drink",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 300
+         },
+         {
+          "tipo": "energizante",
+          "marca": "5 Shot",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 300
          },
          {
           "tipo": "refresco de lata",
@@ -220,35 +220,37 @@
           "unidad": "ml",
           "pesaje": 500,
           "precio": 180
-         },,
-         {
-          "tipo": "alcohol(whisky)",
-          "marca":"Royal Special",
-          "unidad": "ml",
-          "pesaje": 300,
-          "precio": 550
          },
          {
-          "tipo": "papel sanitario",
-          "marca":"La Excelencia",
-          "unidad": "#",
-          "pesaje": 4,
-          "precio": 580
-         },
-         {
-          "tipo": "frazada de piso",
-          "marca":"none",
+          "tipo": "cepillo dental",
+          "marca":"Marwa",
           "unidad": "none",
           "pesaje": "none",
-          "precio": 300
+          "precio": 150
          },
          {
-          "tipo": "champu",
-          "marca":"Gilar",
-          "unidad": "ml",
-          "pesaje": 400,
-          "precio": 900
+          "tipo": "intima",
+          "marca":"My A+",
+          "unidad": "#",
+          "pesaje": 10,
+          "precio": 450
          },
+         {
+          "tipo": "intima",
+          "marca":"Sueños Ultra",
+          "unidad": "#",
+          "pesaje": "10",
+          "precio": 450
+         },
+         {
+          "tipo": "toallitas humedas",
+          "marca":"Dex",
+          "unidad": "gr",
+          "pesaje": 75,
+          "precio": 600
+         },
+         
+         
          {
           "tipo": "desodorante",
           "marca":"Miya",
