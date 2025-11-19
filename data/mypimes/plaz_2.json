@@ -364,8 +364,7 @@
       "tipo": "refresco de paquete",
       "marca": "Zuko",
       "unidad": "ml",
-      "pesaje": "none",
-      "rendimiento": 2000,
+      "pesaje": 2000,
       "precio": 150
     },
     {

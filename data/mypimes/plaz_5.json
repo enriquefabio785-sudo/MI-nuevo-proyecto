@@ -200,7 +200,7 @@
           "pesaje": 330,
           "precio": 250
          },
-        {
+         {
           "tipo": "malta de pomo",
           "marca":"Guajira",
           "unidad": "ml",
@@ -252,26 +252,65 @@
          
          
          {
-          "tipo": "desodorante",
-          "marca":"Miya",
-          "unidad": "none",
-          "pesaje": "none",
-          "precio": 580
+          "tipo": "refresco de paquete",
+          "marca":"Viva",
+          "unidad": "ml",
+          "pesaje": "2000",
+          "precio": 40
          },
          {
-          "tipo": "detergente en polvo",
-          "marca":"Sparkle Wash",
+          "tipo": "sal",
+          "marca":"Polasal",
           "unidad": "gr",
-          "pesaje": 900,
-          "precio": 565
+          "pesaje": 1000,
+          "precio": 450
+         },
+         {
+          "tipo": "galleta salada",
+          "marca":"Salti Tacos",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1200
          },
          {
           "tipo": "detergente liquido",
           "marca":"Kapital",
           "unidad": "ml",
           "pesaje": 750,
-          "precio": 750
+          "precio": 800
+         },
+         {
+          "tipo": "frazada de piso",
+          "marca":"none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 300
+         },
+         {
+          "tipo": "gel de baño",
+          "marca":"Nina",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1200
+         },
+         {
+          "tipo": "refresco de paquete",
+          "marca":"Zuko",
+          "unidad": "ml",
+          "pesaje": 2000,
+          "precio": 100
+         },
+         {
+          "tipo": "papitas",
+          "marca":"Frit",
+          "unidad": "gr",
+          "pesaje": 38,
+          "precio": 1100
          }
+
+         
+         
+
         
         
         

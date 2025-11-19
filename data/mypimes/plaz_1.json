@@ -189,8 +189,7 @@
       "tipo": "refresco de paquete",
       "marca": "Tuti Tuti",
       "unidad": "ml",
-      "pesaje": "none",
-      "rendimiento": 1500,
+      "pesaje": 1500,
       "precio": 50
     },
     {
