@@ -1,0 +1,120 @@
+{"ID":"007",
+ "municipio":"Plaza",
+ "coordenadas":"23.11895, -82.38265",
+ "productos":[
+         {
+          "tipo": "aceite",
+          "marca": "Vima",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 990
+         },
+         {
+          "tipo": "jugo en caja",
+          "marca": "Braavo",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 220
+          
+         },    
+         {
+          "tipo": "refresco de lata",
+          "marca": "Santa",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Max Booms Boom",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "cerveza",
+          "marca": "Unlaguer",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 260
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Salti Crackers",
+          "unidad":"gr",
+          "pesaje":595,
+          "precio": 1100
+         },
+         {
+          "tipo": "sal",
+          "marca": "Polasal",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 450
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca":"Yumato",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 450
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "Aksoft",
+          "unidad": "#",
+          "pesaje": 1,
+          "precio": 140
+         },
+         {
+          "tipo": "arroz",
+          "marca": "Rainha",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 650
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Energy",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 650
+
+         },
+         {
+         "tipo": "cafe molido",
+          "marca": "Isla Grande",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 2500
+         },
+         {
+          "tipo": "dulce(rollo de pastel)",
+          "marca": "Efsane",
+          "unidad": "gr",
+          "pesaje": 50,
+          "precio": 180
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Napolitana",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "intima",
+          "marca": "My A+",
+          "unidad": "#",
+          "pesaje": 10,
+          "precio": 500
+         },
+         {
+         "tipo": "espaguetis",
+         "marca": "zenova",
+         "unidad": "gr",
+         "pesaje": 500,
+         "precio": 350
+         }
+    ]
+}

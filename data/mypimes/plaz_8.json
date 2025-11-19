@@ -1,0 +1,183 @@
+{"ID":"008",
+ "municipio":"Plaza",
+ "coordenadas":"23.11895, -82.38265",
+ "productos":[
+        {
+          "tipo": "alcohol(Vodka)",
+          "marca": "Denovia",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1500
+         },
+         {
+          "tipo": "agua natural",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 160
+        },
+         {
+          "tipo": "galleta salada",
+          "marca": "Salti Crackers",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1200
+          
+        },    
+         {
+          "tipo": "dulce(caramelos)",
+          "marca": "Freegells",
+          "unidad": "gr",
+          "pesaje": 27,
+          "precio": 100
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Hello",
+          "unidad": "gr",
+          "pesaje": 70,
+          "precio": 180
+         },
+         {
+          "tipo": "sopa de pollo",
+          "marca": "Marwa",
+          "unidad": "gr",
+          "pesaje": 85,
+          "precio": 250
+         },
+         {
+          "tipo": "malta de lata",
+          "marca": "Perla Negra",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 270
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Max Booms Boom",
+          "unidad":"ml",
+          "pesaje":330,
+          "precio": 250
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca": "Unlaguer",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 240
+         },
+         {
+          "tipo": "espaguetis",
+          "marca":"Gonca",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca":"Yumato",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 500
+         },
+         {
+          "tipo": "harina",
+          "marca": "Mazorca",
+          "unidad": "gr",
+          "pesaje": 397,
+          "precio": 250
+         },
+         {
+          "tipo": "pasta dental",
+          "marca": "Deemah",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 400
+
+         },
+         {
+          "tipo": "Ketchup",
+          "marca": "Cosami",
+          "unidad": "gr",
+          "pesaje": 300,
+          "precio": 650
+         },
+         {
+          "tipo": "chocolate en polvo",
+          "marca": "Choco Rico",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 900
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Napolitana",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Canoro",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 650
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Energy",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 650
+         },
+         {
+          "tipo": "jabon",
+          "marca": "Marwa",
+          "unidad": "gr",
+          "pesaje": 100,
+          "precio": 160
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Gonca",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "arroz",
+          "marca": "Camil",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 650
+         },
+         {
+          "tipo": "aceite",
+          "marca": "Victoria Garden",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 990
+         },
+         {
+          "tipo": "papel higienico",
+          "marca": "Bingo",
+          "unidad": "#",
+          "pesaje": 1,
+          "precio": 160
+         },
+         {
+          "tipo": "crema dulce",
+          "marca": "Media Crema",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 650
+         },
+         {
+          "tipo": "leche liquida",
+          "marca": "Delite",
+          "unidad": "ml",
+          "pesaje": 10000,
+          "precio": 900
+         }
+    ]
+}

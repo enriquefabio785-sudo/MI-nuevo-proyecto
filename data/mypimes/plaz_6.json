@@ -1,0 +1,312 @@
+{"ID":"006",
+ "municipio":"Plaza",
+ "coordenadas":"23.12551, -82.38061",
+ "productos":[
+        {
+          "tipo": "vino seco",
+          "marca": "El Delicioso",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 460
+         },
+         {
+          "tipo": "aceite",
+          "marca": "Vima",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1100
+        },
+         {
+          "tipo": "alcohol(energizante)",
+          "marca": "Shaka",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 380
+          
+        },    
+         {
+          "tipo": "energizante",
+          "marca": "Twist",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 260
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Max Booms Boom",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "malta de lata",
+          "marca": "Perla Negra",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 260
+         },
+         {
+          "tipo": "cafe molido",
+          "marca": "Isla Grande",
+          "unidad": "gr",
+          "pesaje": "500",
+          "precio": 2500
+         },
+         {
+          "tipo": "alcohol(vino tinto)",
+          "marca": "I Heart",
+          "unidad":"ml",
+          "pesaje":750,
+          "precio": 1350
+         },
+         {
+          "tipo": "alcohol(vino tinto)",
+          "marca": "Entre Rios",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1350
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca":"Fire One",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1600
+         },
+         {
+          "tipo": "desodorante",
+          "marca": "Axe",
+          "unidad": "ml",
+          "pesaje": 150,
+          "precio": 1500
+         },
+         {
+          "tipo": "crema de piel",
+          "marca": "American Touch",
+          "unidad": "ml",
+          "pesaje": 532,
+          "precio": 1500
+         },
+         {
+          "tipo": "intima",
+          "marca": "My A+",
+          "unidad": "#",
+          "pesaje": 10,
+          "precio": 500
+
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "La Excelencia",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 600
+         },
+         {
+          "tipo": "pasta dental",
+          "marca": "Colgate",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 1050
+         },
+         {
+          "tipo": "pasta dental",
+          "marca": "Coolwhite",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 700
+         },
+         {
+          "tipo": "detergente liquido",
+          "marca": "Kapital",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 800
+         },
+         {
+          "tipo": "champu",
+          "marca": "Silko",
+          "unidad": "ml",
+          "pesaje": 400,
+          "precio": 1500
+         },
+         {
+          "tipo": "pasta de bocaditos",
+          "marca": "Differ",
+          "unidad": "ml",
+          "pesaje": 290,
+          "precio": 500
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Cosami",
+          "unidad": "ml",
+          "pesaje": "465",
+          "precio": 1555
+         },
+         {
+          "tipo": "dulce(fresa en almibar)",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": "425",
+          "precio": 750
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": "400",
+          "precio": 650
+         },
+         {
+          "tipo": "fanguito",
+          "marca": "criollo",
+          "unidad": "gr",
+          "pesaje": 340,
+          "precio": 600
+         },
+         {
+          "tipo": "crema dulce",
+          "marca": "Media Crema",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 650
+         },
+         {
+          "tipo": "leche liquida",
+          "marca": "Delite",
+          "unidad": "ml",
+          "pesaje": 10000,
+          "precio": 900
+         },
+         {
+          "tipo": "leche en polvo",
+          "marca": "La Cata",
+          "unidad": "gr",
+          "pesaje": 1000,
+         },
+         {
+          "tipo": "energizante",
+          "marca": "5 Shot",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 300
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Santa",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "malta de pomo",
+          "marca":"Guajira",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 300
+         },
+         {
+          "tipo": "malta de lata",
+          "marca":"Perla Negra",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 300
+         },
+         {
+          "tipo": "agua natural",
+          "marca":"Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 180
+         },
+         {
+          "tipo": "cepillo dental",
+          "marca":"Marwa",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 150
+         },
+         {
+          "tipo": "intima",
+          "marca":"My A+",
+          "unidad": "#",
+          "pesaje": 10,
+          "precio": 450
+         },
+         {
+          "tipo": "intima",
+          "marca":"Sueños Ultra",
+          "unidad": "#",
+          "pesaje": "10",
+          "precio": 450
+         },
+         {
+          "tipo": "toallitas humedas",
+          "marca":"Dex",
+          "unidad": "gr",
+          "pesaje": 75,
+          "precio": 600
+         },
+         
+         
+         {
+          "tipo": "refresco de paquete",
+          "marca":"Viva",
+          "unidad": "ml",
+          "pesaje": "2000",
+          "precio": 40
+         },
+         {
+          "tipo": "sal",
+          "marca":"Polasal",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 450
+         },
+         {
+          "tipo": "galleta salada",
+          "marca":"Salti Tacos",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1200
+         },
+         {
+          "tipo": "detergente liquido",
+          "marca":"Kapital",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 800
+         },
+         {
+          "tipo": "frazada de piso",
+          "marca":"none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 300
+         },
+         {
+          "tipo": "gel de baño",
+          "marca":"Nina",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1200
+         },
+         {
+          "tipo": "refresco de paquete",
+          "marca":"Zuko",
+          "unidad": "ml",
+          "pesaje": 2000,
+          "precio": 100
+         },
+         {
+          "tipo": "papitas",
+          "marca":"Frit",
+          "unidad": "gr",
+          "pesaje": 38,
+          "precio": 1100
+         }
+        
+    ]
+}
+
