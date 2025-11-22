@@ -1,13 +1,13 @@
-{"ID":"006",
+{"ID":"012",
  "municipio":"Plaza",
- "coordenadas":"23.12551, -82.38061",
+ "coordenadas":"23.11615, -82.38604",
  "productos":[
         {
-          "tipo": "vino seco",
-          "marca": "El Delicioso",
-          "unidad": "ml",
-          "pesaje": 1000,
-          "precio": 460
+          "tipo": "Champu",
+         "marca": "H&S",
+         "unidad": "ml",
+         "pesaje": 330,
+         "precio": 5200
          },
          {
           "tipo": "aceite",
@@ -176,7 +176,7 @@
           "tipo": "leche liquida",
           "marca": "Delite",
           "unidad": "ml",
-          "pesaje": 1000,
+          "pesaje": 10000,
           "precio": 900
          },
          {

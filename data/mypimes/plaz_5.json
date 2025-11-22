@@ -255,7 +255,7 @@
           "tipo": "refresco de paquete",
           "marca":"Viva",
           "unidad": "ml",
-          "pesaje": "2000",
+          "pesaje": 2000,
           "precio": 40
          },
          {

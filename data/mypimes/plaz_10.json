@@ -1,0 +1,240 @@
+{"ID":"010",
+ "municipio":"Plaza",
+ "coordenadas":"23.11575, -82.38536",
+ "productos":[
+        {
+          "tipo": "jugo en caja",
+          "marca": "Sima",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 200
+         },
+         {
+          "tipo": "cerveza de botella",
+          "marca": "Bucanero",
+          "unidad": "ml",
+          "pesaje": 350,
+          "precio": 370
+        },
+         {
+          "tipo": "cerveza de botella",
+          "marca": "Cristal",
+          "unidad": "ml",
+          "pesaje": 350,
+          "precio": 370
+          
+        },    
+         {
+          "tipo": "cerveza de botella",
+          "marca": "Cristal Extra",
+          "unidad": "ml",
+          "pesaje": 350,
+          "precio": 320
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Max Booms Boom",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "malta de lata",
+          "marca": "Perla Negra",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 300
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Santa",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "energizante",
+          "marca": "Tigon",
+          "unidad":"ml",
+          "pesaje":250,
+          "precio": 350
+         },
+         {
+          "tipo": "energizante",
+          "marca": "XL",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 300
+         },
+         {
+          "tipo": "cerveza de pomo",
+          "marca":"Parranda",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 240
+         },
+         {
+          "tipo": "cerveza de pomo",
+          "marca": "Parranda",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 300
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca": "Presidente",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 300
+         },
+         {
+          "tipo": "cerveza de botella",
+          "marca": "Presidente",
+          "unidad": "ml",
+          "pesaje": 350,
+          "precio": 320
+
+         },
+         {
+          "tipo": "carton de huevos",
+          "marca": "none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 3200
+         },
+         {
+          "tipo": "aceite",
+          "marca": "Vima",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 990
+         },
+         {
+          "tipo": "papitas",
+          "marca": "Pramesa",
+          "unidad": "gr",
+          "pesaje": 100,
+          "precio": 580
+         },
+         {
+          "tipo": "cafe molido",
+          "marca": "Rancheiro",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 1850
+         },
+         {
+          "tipo": "cafe molido",
+          "marca": "Isla Grande",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 1600
+         },
+         {
+          "tipo": "alubias",
+          "marca": "De Cancio",
+          "unidad": "gr",
+          "pesaje": 540,
+          "precio": 550
+         },
+         {
+          "tipo": "garbanzos",
+          "marca": "De Cancio",
+          "unidad": "ml",
+          "pesaje": 540,
+          "precio": 650
+         },
+         {
+          "tipo": "Alubias",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 540,
+          "precio": 800
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Saltin Noel",
+          "unidad": "gr",
+          "pesaje": 102,
+          "precio": 260
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Saltin Noel",
+          "unidad": "gr",
+          "pesaje": 300,
+          "precio": 510
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Rancheiro",
+          "unidad": "gr",
+          "pesaje": 300,
+          "precio": 600
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Vima",
+          "unidad": "ml",
+          "pesaje": 450,
+          "precio": 1800
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Fresko",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 770
+         },
+         {
+          "tipo": "harina",
+          "marca": "Dona Maria",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 650
+         },
+         {
+          "tipo": "lentejas",
+          "marca": "Penelas",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 750
+         },
+         {
+          "tipo": "fideos",
+          "marca":"Comarrico",
+          "unidad": "gr",
+          "pesaje": 250,
+          "precio": 205
+         },
+         {
+          "tipo": "espaguetis",
+          "marca":"Comarrico",
+          "unidad": "gr",
+          "pesaje": 250,
+          "precio": 350
+         },
+         {
+          "tipo": "atun en aceite",
+          "marca":"Docanned Star",
+          "unidad": "gr",
+          "pesaje": 140,
+          "precio": 560
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca":"Milner",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1800
+         },
+         {
+          "tipo": "jabon",
+          "marca":"Harmony",
+          "unidad": "gr",
+          "pesaje": 75,
+          "precio": 280
+         }
+    ]
+}
+

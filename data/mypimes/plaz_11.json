@@ -1,0 +1,176 @@
+{"ID":"011",
+ "municipio":"Plaza",
+ "coordenadas":"23.11615, -82.38604",
+ "productos":[
+        {
+          "tipo": "dulce(sorbetos)",
+          "marca": "Nutro",
+          "unidad": "gr",
+          "pesaje": 75,
+          "precio": 250
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Black Out",
+          "unidad": "gr",
+          "pesaje": 60,
+          "precio": 180
+        },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Hello",
+          "unidad": "gr",
+          "pesaje": 70,
+          "precio": 160
+          
+        },    
+         {
+          "tipo": "refresco de lata",
+          "marca": "Pepsi",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 260
+         },
+         {
+          "tipo": "energizante",
+          "marca": "Flash",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 250
+         },
+         {
+          "tipo": "malta de pomo",
+          "marca": "Guajira",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 260
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca": "Unlaguer",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 220
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Santa",
+          "unidad":"ml",
+          "pesaje": 330,
+          "precio": 220
+         },
+         {
+          "tipo": "agua natural",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 1500,
+          "precio": 480
+         },
+         {
+          "tipo": "galleta salada",
+          "marca":"Salti Tacos",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1260
+         },
+         {
+          "tipo": "galleta salada",
+          "marca":"Salti Tacos",
+          "unidad": "gr",
+          "pesaje": 85,
+          "precio": 180
+         },
+         {
+          "tipo": "detergente liquido",
+          "marca": "Kapital",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 780
+         },
+         {
+          "tipo": "aceite",
+          "marca": "Vima",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1000
+
+         },
+         {
+          "tipo": "arroz",
+          "marca": "Rainha",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 700
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Napolitana",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "frijoles negros",
+          "marca": "Pateko",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 450
+         },
+         {
+          "tipo": "fanguito",
+          "marca": "criollo",
+          "unidad": "gr",
+          "pesaje": 340,
+          "precio": 650
+         },
+         {
+          "tipo": "sal",
+          "marca": "Polasal",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 550
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Celorrio",
+          "unidad": "ml",
+          "pesaje": 450,
+          "precio": 1500
+         },
+         {
+          "tipo": "sopa instantanea",
+          "marca": "Miriko",
+          "unidad": "gr",
+          "pesaje": 65,
+          "precio": 230
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Black Blend",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 350
+         },
+         {
+          "tipo": "maiz en grano",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 230,
+          "precio": 650
+         },
+         {
+          "tipo": "vinagre",
+          "marca": "Aldaketa",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 730
+         },
+         {
+          "tipo": "cafe espresso",
+          "marca": "Espresso",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 1850
+         }
+    ]
+}
