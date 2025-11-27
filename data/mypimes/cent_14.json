@@ -1,0 +1,266 @@
+{
+  "ID": "MP14",
+  "municipio": "Centro Habana",
+  "coordenadas": "",
+  "productos": [
+    {
+      "tipo": "cerveza de botella",
+      "marca": "Cristal",
+      "unidad": "ml",
+      "pesaje": 350,
+      "precio": 350
+    },
+    {
+      "tipo": "cerveza de botella",
+      "marca": "Cristal",
+      "unidad": "ml",
+      "pesaje": 350,
+      "precio": 350
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "La Fría",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 240
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Unlaguer",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 240
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Hollandia",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 240
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Shekels",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 240
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "BEER",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 240
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Cubay",
+      "unidad": "ml",
+      "pesaje": 200,
+      "precio": 480
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Havana Club Original",
+      "unidad": "ml",
+      "pesaje": 700,
+      "precio": 1800
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Havana Club Original",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 2200
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Havana Club Ritual",
+      "unidad": "ml",
+      "pesaje": 700,
+      "precio": 2000
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Havana Club Reserva",
+      "unidad": "ml",
+      "pesaje": 750,
+      "precio": 2000
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Havana Club Especial",
+      "unidad": "ml",
+      "pesaje": 700,
+      "precio": 2000
+    },
+    {
+      "tipo": "alcohol(whisky)",
+      "marca": "Reserve 7",
+      "unidad": "ml",
+      "pesaje": 750,
+      "precio": 1500
+    },
+    {
+      "tipo": "alcohol(whisky)",
+      "marca": "Reserve 7",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 500
+    },
+    {
+      "tipo": "alcohol(whisky)",
+      "marca": "Chanceler",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 1500
+    },
+    {
+      "tipo": "alcohol(vodka)",
+      "marca": "Ninnoff",
+      "unidad": "ml",
+      "pesaje": 300,
+      "precio": 600
+    },
+    {
+      "tipo": "refresco de lata",
+      "marca": "Max Booms Boom",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 230
+    },
+    {
+      "tipo": "refresco de lata",
+      "marca": "7 Up",
+      "unidad": "ml",
+      "pesaje": 350,
+      "precio": 230
+    },
+    {
+      "tipo": "refresco de lata",
+      "marca": "Santa",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 230
+    },
+    {
+      "tipo": "refresco de lata",
+      "marca": "Pepsi",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 260
+    },
+    {
+      "tipo": "refresco de pomo",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 1500,
+      "precio": 650
+    },
+    {
+      "tipo": "energizante",
+      "marca": "5 Shot",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 290
+    },
+    {
+      "tipo": "energizante",
+      "marca": "Shaka",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 450
+    },
+    {
+      "tipo": "malta de pomo",
+      "marca": "Guajira",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 260
+    },
+    {
+      "tipo": "agua natural",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 500,
+      "precio": 150
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "Sapeca",
+      "unidad": "gr",
+      "pesaje": 120,
+      "precio": 280
+    },
+    {
+      "tipo": "papitas",
+      "marca": "Paparica",
+      "unidad": "gr",
+      "pesaje": 100,
+      "precio": 800
+    },
+    {
+      "tipo": "aceite",
+      "marca": "Vima",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 1300
+    },
+    {
+      "tipo": "vinagre",
+      "marca": "Deleite",
+      "unidad": "ml",
+      "pesaje": 750,
+      "precio": 450
+    },
+    {
+      "tipo": "cafe molido",
+      "marca": "La Llave",
+      "unidad": "gr",
+      "pesaje": 250,
+      "precio": 2000
+    },
+    {
+      "tipo": "cafe molido",
+      "marca": "El Dorado",
+      "unidad": "gr",
+      "pesaje": 250,
+      "precio": 2000
+    },
+    {
+      "tipo": "mayonesa",
+      "marca": "Victoria Garden",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 800
+    },
+    {
+      "tipo": "ketchup",
+      "marca": "Kurtz",
+      "unidad": "gr",
+      "pesaje": 680,
+      "precio": 1000
+    },
+    {
+      "tipo": "mostaza",
+      "marca": "Kurtz",
+      "unidad": "gr",
+      "pesaje": 567,
+      "precio": 1200
+    },
+    {
+      "tipo": "dulce(sorbetos)",
+      "marca": "Renata",
+      "unidad": "gr",
+      "pesaje": 115,
+      "precio": 380
+    },
+    {
+      "tipo": "jabon",
+      "marca": "Marwa",
+      "unidad": "gr",
+      "pesaje": 100,
+      "precio": 150
+    }
+  ]
+}

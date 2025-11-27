@@ -1,0 +1,259 @@
+{
+  "ID": "MP18",
+  "municipio": "Centro Habana",
+  "coordenadas": "23.13609, -82.37831",
+  "productos": [
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Unlaguer",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 240
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Shekels",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 240
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Lander Brau",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 230
+    },
+    {
+      "tipo": "cerveza de botella",
+      "marca": "Presidente",
+      "unidad": "ml",
+      "pesaje": 350,
+      "precio": 300
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Santiago de Cuba Carta Blanca",
+      "unidad": "ml",
+      "pesaje": 700,
+      "precio": 3500
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Santiago de Cuba Añejo 8 Años",
+      "unidad": "ml",
+      "pesaje": 700,
+      "precio": 6400
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Havana Club Añejo Blanco",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 2300
+    },
+    {
+      "tipo": "alcohol(whisky)",
+      "marca": "Milner Green Label",
+      "unidad": "ml",
+      "pesaje": 375,
+      "precio": 750
+    },
+    {
+      "tipo": "alcohol(whisky)",
+      "marca": "Chanceler",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 1500
+    },
+    {
+      "tipo": "refresco de pomo",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 1500,
+      "precio": 650
+    },
+    {
+      "tipo": "refresco de lata",
+      "marca": "Coca Cola",
+      "unidad": "ml",
+      "pesaje": 350,
+      "precio": 270
+    },
+    {
+      "tipo": "energizante",
+      "marca": "Vitalis",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 260
+    },
+    {
+      "tipo": "energizante",
+      "marca": "Vod-K",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 360
+    },
+    {
+      "tipo": "energizante",
+      "marca": "Shaka",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 350
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "Golden Foods Galletas María",
+      "unidad": "gr",
+      "pesaje": 170,
+      "precio": 420
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "Luanitos",
+      "unidad": "gr",
+      "pesaje": 110,
+      "precio": 210
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "Nutro",
+      "unidad": "gr",
+      "pesaje": 30,
+      "precio": 110
+    },
+    {
+      "tipo": "dulce(caramelos)",
+      "marca": "Richy",
+      "unidad": "gr",
+      "pesaje": 25,
+      "precio": 150
+    },
+    {
+      "tipo": "espaguetis",
+      "marca": "Donatella",
+      "unidad": "gr",
+      "pesaje": 500,
+      "precio": 380
+    },
+    {
+      "tipo": "vinagre",
+      "marca": "Deleite",
+      "unidad": "ml",
+      "pesaje": 1500,
+      "precio": 650
+    },
+    {
+      "tipo": "vinagre",
+      "marca": "Aldaketa",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 860
+    },
+    {
+      "tipo": "pasta de tomate",
+      "marca": "Mansana Roja",
+      "unidad": "gr",
+      "pesaje": 850,
+      "precio": 1000
+    },
+    {
+      "tipo": "pasta de tomate",
+      "marca": "VAL",
+      "unidad": "gr",
+      "pesaje": 140,
+      "precio": 220
+    },
+    {
+      "tipo": "pasta de tomate",
+      "marca": "Vima",
+      "unidad": "gr",
+      "pesaje": 400,
+      "precio": 580
+    },
+    {
+      "tipo": "mayonesa",
+      "marca": "Celorrio",
+      "unidad": "ml",
+      "pesaje": 500,
+      "precio": 1450
+    },
+    {
+      "tipo": "ketchup",
+      "marca": "Kurtz",
+      "unidad": "gr",
+      "pesaje": 680,
+      "precio": 1200
+    },
+    {
+      "tipo": "mostaza",
+      "marca": "Oderich",
+      "unidad": "gr",
+      "pesaje": 190,
+      "precio": 450
+    },
+    {
+      "tipo": "cafe molido",
+      "marca": "Paraná",
+      "unidad": "gr",
+      "pesaje": 250,
+      "precio": 1700
+    },
+    {
+      "tipo": "cafe molido",
+      "marca": "La Carreta",
+      "unidad": "gr",
+      "pesaje": 283.5,
+      "precio": 2600
+    },
+    {
+      "tipo": "frijoles negros",
+      "marca": "Del Campo",
+      "unidad": "gr",
+      "pesaje": 454,
+      "precio": 850
+    },
+    {
+      "tipo": "frijoles negros",
+      "marca": "Del Campo",
+      "unidad": "gr",
+      "pesaje": 454,
+      "precio": 820
+    },
+    {
+      "tipo": "frijoles negros",
+      "marca": "Del Campo",
+      "unidad": "gr",
+      "pesaje": 454,
+      "precio": 720
+    },
+    {
+      "tipo": "frijoles negros",
+      "marca": "Malú",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 890
+    },
+    {
+      "tipo": "leche condensada",
+      "marca": "La Granjera",
+      "unidad": "gr",
+      "pesaje": 390,
+      "precio": 560
+    },
+    {
+      "tipo": "leche condensada",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 390,
+      "precio": 600
+    },
+    {
+      "tipo": "papel sanitario",
+      "marca": "La Excelencia",
+      "unidad": "#",
+      "pesaje": "none",
+      "precio": 550
+    }
+  ]
+}

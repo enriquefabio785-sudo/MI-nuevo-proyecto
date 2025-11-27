@@ -1,0 +1,189 @@
+{
+  "ID": "MP16",
+  "municipio": "Centro Habana",
+  "coordenadas": "23.12298, -82.37437",
+  "productos": [
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Shekels",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 240
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Belga Star",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 240
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Capitán Cortez",
+      "unidad": "ml",
+      "pesaje": 965,
+      "precio": 1700
+    },
+    {
+      "tipo": "alcohol(vodka)",
+      "marca": "Magic Ice",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 1700
+    },
+    {
+      "tipo": "refresco de pomo",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 1500,
+      "precio": 660
+    },
+    {
+      "tipo": "energizante",
+      "marca": "Go+",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 270
+    },
+    {
+      "tipo": "malta de pomo",
+      "marca": "Perla Negra",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 290
+    },
+    {
+      "tipo": "agua natural",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 500,
+      "precio": 160
+    },
+    {
+      "tipo": "caja de cigarros",
+      "marca": "Englishman",
+      "unidad": "none",
+      "pesaje": "none",
+      "precio": 550
+    },
+    {
+      "tipo": "galleta salada",
+      "marca": "Crokantinas",
+      "unidad": "gr",
+      "pesaje": 577,
+      "precio": 1260
+    },
+    {
+      "tipo": "papitas",
+      "marca": "J.Higgs",
+      "unidad": "gr",
+      "pesaje": 241,
+      "precio": 1200
+    },
+    {
+      "tipo": "papitas",
+      "marca": "Hello I`M Chips",
+      "unidad": "gr",
+      "pesaje": 65,
+      "precio": 400
+    },
+    {
+      "tipo": "papitas",
+      "marca": "Totas",
+      "unidad": "gr",
+      "pesaje": 130,
+      "precio": 1100
+    },
+    {
+      "tipo": "pasta de tomate",
+      "marca": "Differ",
+      "unidad": "gr",
+      "pesaje": 200,
+      "precio": 280
+    },
+    {
+      "tipo": "pasta de tomate",
+      "marca": "Victoria Garden",
+      "unidad": "gr",
+      "pesaje": 400,
+      "precio": 450
+    },
+    {
+      "tipo": "mayonesa",
+      "marca": "Differ",
+      "unidad": "ml",
+      "pesaje": 200,
+      "precio": 380
+    },
+    {
+      "tipo": "ketchup",
+      "marca": "Kurtz",
+      "unidad": "ml",
+      "pesaje": 680,
+      "precio": 1000
+    },
+    {
+      "tipo": "mostaza",
+      "marca": "Kurtz",
+      "unidad": "ml",
+      "pesaje": 567,
+      "precio": 900
+    },
+    {
+      "tipo": "sal",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 350
+    },
+    {
+      "tipo": "azucar blanca",
+      "marca": "Energy",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 750
+    },
+    {
+      "tipo": "frijoles negros",
+      "marca": "Malu",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 950
+    },
+    {
+      "tipo": "frijoles colorados",
+      "marca": "Del Campo",
+      "unidad": "gr",
+      "pesaje": 454,
+      "precio": 720
+    },
+    {
+      "tipo": "frijoles blancos",
+      "marca": "Del Campo",
+      "unidad": "gr",
+      "pesaje": 454,
+      "precio": 750
+    },
+    {
+      "tipo": "garbanzos",
+      "marca": "Del Campo",
+      "unidad": "gr",
+      "pesaje": 454,
+      "precio": 650
+    },
+    {
+      "tipo": "leche condensada",
+      "marca": "Milcow",
+      "unidad": "ml",
+      "pesaje": 397,
+      "precio": 550
+    },
+    {
+      "tipo": "papel sanitario",
+      "marca": "La Excelencia",
+      "unidad": "#",
+      "pesaje": 1,
+      "precio": 640
+    }
+  ]
+}

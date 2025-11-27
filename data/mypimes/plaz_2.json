@@ -32,7 +32,7 @@
       "precio": 690
     },
     {
-      "tipo": "Champu",
+      "tipo": "champu",
       "marca": "H&S",
       "unidad": "ml",
       "pesaje": 330,
@@ -277,7 +277,7 @@
       "precio": 1110
     },
     {
-      "tipo": "acite",
+      "tipo": "aceite",
       "marca": "Sarita",
       "unidad": "ml",
       "pesaje": 900,

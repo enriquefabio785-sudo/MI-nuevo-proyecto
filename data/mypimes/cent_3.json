@@ -1,0 +1,133 @@
+{
+  "ID": "MP3",
+  "municipio": "Centro Habana",
+  "coordenadas": "23.13464, -82.36299",
+  "productos": [
+    {
+      "tipo": "alcohol(whisky)",
+      "marca": "Klipperton",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 1300
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Santiago de Cuba Carta Blanca",
+      "unidad": "ml",
+      "pesaje": 700,
+      "precio": 2600
+    },
+    {
+      "tipo": "malta de pomo",
+      "marca": "Santa Isabel",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 260
+    },
+    {
+      "tipo": "aceite",
+      "marca": "none",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 950
+    },
+    {
+      "tipo": "pasta de tomate",
+      "marca": "Mantias`S",
+      "unidad": "gr",
+      "pesaje": 680,
+      "precio": 1350
+    },
+    {
+      "tipo": "pasta de tomate",
+      "marca": "VIBE",
+      "unidad": "gr",
+      "pesaje": 400,
+      "precio": 290
+    },
+    {
+      "tipo": "queso",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 3000,
+      "precio": 10000
+    },
+    {
+      "tipo": "azucar blanca",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 580
+    },
+    {
+      "tipo": "arroz",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 580
+    },
+    {
+      "tipo": "espaguetis",
+      "marca": "VIBE",
+      "unidad": "gr",
+      "pesaje": 500,
+      "precio": 240
+    },
+    {
+      "tipo": "espaguetis",
+      "marca": "Ada",
+      "unidad": "gr",
+      "pesaje": 500,
+      "precio": 250
+    },
+    {
+      "tipo": "mayonesa",
+      "marca": "Kurtz",
+      "unidad": "ml",
+      "pesaje": 887,
+      "precio": 2300
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "Goya",
+      "unidad": "gr",
+      "pesaje": 200,
+      "precio": 600
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "María",
+      "unidad": "gr",
+      "pesaje": 240,
+      "precio": 800
+    },
+    {
+      "tipo": "cafe molido",
+      "marca": "Pura Sangre",
+      "unidad": "gr",
+      "pesaje": 250,
+      "precio": 1800
+    },
+    {
+      "tipo": "cafe molido",
+      "marca": "Aroma",
+      "unidad": "gr",
+      "pesaje": 250,
+      "precio": 1700
+    },
+    {
+      "tipo": "sazon",
+      "marca": "Badia",
+      "unidad": "gr",
+      "pesaje": 360,
+      "precio": 1600
+    },
+    {
+      "tipo": "papel sanitario",
+      "marca": "none",
+      "unidad": "#",
+      "pesaje": "none",
+      "precio": 120
+    }
+  ]
+}

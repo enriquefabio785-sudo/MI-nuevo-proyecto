@@ -1,0 +1,168 @@
+{
+  "ID": "MP4",
+  "municipio": "Centro Habana",
+  "coordenadas": "23.13508, -82.36434",
+  "productos": [
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Unlaguer",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 260
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Moyoc",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 240
+    },
+    {
+      "tipo": "energizante",
+      "marca": "LINX",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 280
+    },
+    {
+      "tipo": "malta de lata",
+      "marca": "Perla Negra",
+      "unidad": "ml",
+      "pesaje": 355,
+      "precio": 315
+    },
+    {
+      "tipo": "malta de lata",
+      "marca": "Sunday",
+      "unidad": "ml",
+      "pesaje": 355,
+      "precio": 280
+    },
+    {
+      "tipo": "agua natural",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 500,
+      "precio": 150
+    },
+    {
+      "tipo": "agua natural",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 1500,
+      "precio": 200
+    },
+    {
+      "tipo": "alcohol(vodka)",
+      "marca": "Ninnoff",
+      "unidad": "ml",
+      "pesaje": 300,
+      "precio": 585
+    },
+    {
+      "tipo": "alcohol(whisky)",
+      "marca": "Sir Albin",
+      "unidad": "ml",
+      "pesaje": 300,
+      "precio": 585
+    },
+    {
+      "tipo": "alcohol(whisky)",
+      "marca": "Glen Silver`S",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 2700
+    },
+    {
+      "tipo": "vinagre",
+      "marca": "El Delicioso",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 360
+    },
+    {
+      "tipo": "cafe molido",
+      "marca": "Dufiltro",
+      "unidad": "gr",
+      "pesaje": 250,
+      "precio": 1670
+    },
+    {
+      "tipo": "mayonesa",
+      "marca": "Mayo+",
+      "unidad": "ml",
+      "pesaje": 480,
+      "precio": 1000
+    },
+    {
+      "tipo": "espaguetis",
+      "marca": "ANI Makarna",
+      "unidad": "gr",
+      "pesaje": 500,
+      "precio": 380
+    },
+    {
+      "tipo": "espaguetis",
+      "marca": "Casarecce",
+      "unidad": "gr",
+      "pesaje": 500,
+      "precio": 380
+    },
+    {
+      "tipo": "harina",
+      "marca": "Qbanito",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 670
+    },
+    {
+      "tipo": "harina",
+      "marca": "Fresko",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 670
+    },
+    {
+      "tipo": "pollo",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": "none",
+      "precio": 1950
+    },
+    {
+      "tipo": "pollo",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 2000,
+      "precio": 5000
+    },
+    {
+      "tipo": "higado",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 780
+    },
+    {
+      "tipo": "picadillo de pollo",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 400
+    },
+    {
+      "tipo": "papel sanitario",
+      "marca": "La Excelencia",
+      "unidad": "#",
+      "pesaje": "none",
+      "precio": 600
+    },
+    {
+      "tipo": "pasta dental",
+      "marca": "Clogurde",
+      "unidad": "ml",
+      "pesaje": 80,
+      "precio": 760
+    }
+  ]
+}

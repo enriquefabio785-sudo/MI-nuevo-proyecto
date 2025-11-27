@@ -1,0 +1,231 @@
+{
+  "ID": "MP13",
+  "municipio": "Centro Habana",
+  "coordenadas": "",
+  "productos": [
+    {
+      "tipo": "cerveza de botella",
+      "marca": "Cristal",
+      "unidad": "ml",
+      "pesaje": 350,
+      "precio": 300
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Unlaguer",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 240
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "La Fría",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 240
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Cubay",
+      "unidad": "ml",
+      "pesaje": 200,
+      "precio": 360
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Havana Club",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 1800
+    },
+    {
+      "tipo": "alcohol(whisky)",
+      "marca": "Reserve 7",
+      "unidad": "ml",
+      "pesaje": 750,
+      "precio": 1450
+    },
+    {
+      "tipo": "alcohol(whisky)",
+      "marca": "Reserve 7",
+      "unidad": "ml",
+      "pesaje": 300,
+      "precio": 500
+    },
+    {
+      "tipo": "alcohol(whisky)",
+      "marca": "Chanceler",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 1550
+    },
+    {
+      "tipo": "refresco de pomo",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 1500,
+      "precio": 680
+    },
+    {
+      "tipo": "energizante",
+      "marca": "Shaka",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 400
+    },
+    {
+      "tipo": "refresco de paquete",
+      "marca": "Zuko",
+      "unidad": "gr",
+      "pesaje": 13,
+      "precio": 100
+    },
+    {
+      "tipo": "jugo de caja",
+      "marca": "Goliath",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 850
+    },
+    {
+      "tipo": "malta de pomo",
+      "marca": "Perla Negra",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 300
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "Luanitos",
+      "unidad": "gr",
+      "pesaje": 110,
+      "precio": 250
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "Luanesco",
+      "unidad": "gr",
+      "pesaje": 110,
+      "precio": 250
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "Bonucci",
+      "unidad": "gr",
+      "pesaje": 68,
+      "precio": 180
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "Rellenitas",
+      "unidad": "gr",
+      "pesaje": 0,
+      "precio": 0
+    },
+    {
+      "tipo": "dulce(caramelos)",
+      "marca": "Lingo",
+      "unidad": "gr",
+      "pesaje": 30,
+      "precio": 130
+    },
+    {
+      "tipo": "arroz",
+      "marca": "Pateko",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 700
+    },
+    {
+      "tipo": "papitas",
+      "marca": "Hello I`M Chips",
+      "unidad": "gr",
+      "pesaje": 65,
+      "precio": 500
+    },
+    {
+      "tipo": "frijoles negros",
+      "marca": "Del Campo",
+      "unidad": "gr",
+      "pesaje": 454,
+      "precio": 650
+    },
+    {
+      "tipo": "frijoles negros",
+      "marca": "Penelas",
+      "unidad": "gr",
+      "pesaje": 500,
+      "precio": 800
+    },
+    {
+      "tipo": "pasta de tomate",
+      "marca": "Vima",
+      "unidad": "gr",
+      "pesaje": 400,
+      "precio": 650
+    },
+    {
+      "tipo": "mayonesa",
+      "marca": "Real Mayonnaise",
+      "unidad": "ml",
+      "pesaje": 450,
+      "precio": 1700
+    },
+    {
+      "tipo": "ketchup",
+      "marca": "Oderich",
+      "unidad": "gr",
+      "pesaje": 400,
+      "precio": 800
+    },
+    {
+      "tipo": "mostaza",
+      "marca": "Oderich",
+      "unidad": "gr",
+      "pesaje": 200,
+      "precio": 490
+    },
+    {
+      "tipo": "cafe molido",
+      "marca": "El Dorado",
+      "unidad": "gr",
+      "pesaje": 250,
+      "precio": 2100
+    },
+    {
+      "tipo": "cafe molido",
+      "marca": "Aroma",
+      "unidad": "gr",
+      "pesaje": 250,
+      "precio": 2000
+    },
+    {
+      "tipo": "pollo",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 2000,
+      "precio": 5000
+    },
+    {
+      "tipo": "higado",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 900
+    },
+    {
+      "tipo": "carton de huevos",
+      "marca": "none",
+      "unidad": "none",
+      "pesaje": "none",
+      "precio": 3000
+    },
+    {
+      "tipo": "papel sanitario",
+      "marca": "Yeya",
+      "unidad": "#",
+      "pesaje": "none",
+      "precio": 600
+    }
+  ]
+}

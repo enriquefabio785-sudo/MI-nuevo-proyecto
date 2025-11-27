@@ -96,7 +96,7 @@
 
          },
          {
-          "tipo": "Ketchup",
+          "tipo": "ketchup",
           "marca": "Cosami",
           "unidad": "gr",
           "pesaje": 300,
@@ -176,7 +176,7 @@
           "tipo": "leche liquida",
           "marca": "Delite",
           "unidad": "ml",
-          "pesaje": 10000,
+          "pesaje": 1000,
           "precio": 900
          }
     ]

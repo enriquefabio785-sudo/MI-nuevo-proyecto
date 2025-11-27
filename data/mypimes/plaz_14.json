@@ -1,0 +1,304 @@
+{"ID":"014",
+ "municipio":"Plaza",
+ "coordenadas":"23.12055, -82.39281",
+ "productos":[
+        {
+          "tipo": "jugo de caja",
+          "marca": "Tuana",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 170
+         },
+         {
+          "tipo": "aceite",
+          "marca": "Hysa",
+          "unidad": "ml",
+          "pesaje": 800,
+          "precio": 990
+        },
+         {
+          "tipo": "energizante",
+          "marca": "Go +",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 250
+          
+        },    
+         {
+          "tipo": "energizante",
+          "marca": "Twist",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 260
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Max Booms Boom",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "malta de lata",
+          "marca": "Perla Negra",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 270
+         },
+         {
+          "tipo": "cafe molido",
+          "marca": "Dufiltro",
+          "unidad": "gr",
+          "pesaje": 250,
+          "precio": 1700
+         },
+         {
+          "tipo": "alcohol(vino tinto)",
+          "marca": "Adega do Conde",
+          "unidad":"ml",
+          "pesaje":750,
+          "precio": 1650
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Gold Macaw",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1650
+         },
+         {
+          "tipo": "jugo de caja",
+          "marca":"Fruta",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 750
+         },
+         {
+          "tipo": "alcohol(ron)",
+          "marca":"Cubay",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 350
+         },
+         {
+          "tipo": "jabon",
+          "marca":"Aura",
+          "unidad": "gr",
+          "pesaje": 70,
+          "precio": 150
+         },
+         {
+          "tipo": "maquina de afeitar",
+          "marca": "Max",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 180
+
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "La Excelencia",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 650
+         },
+         {
+          "tipo": "detergente en polvo",
+          "marca": "Ridel",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 500
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Crokantinas",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1100
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Comarrico",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 250
+         },
+         {
+          "tipo": "arroz",
+          "marca": "Rainha",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 750
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Energy",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 700
+         },
+         {
+          "tipo": "vino seco",
+          "marca": "El Mundo",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 450
+         },
+         {
+          "tipo": "maiz en grano",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 425,
+          "precio": 700
+         },
+         {
+          "tipo": "macedonia de verduras",
+          "marca": "Celorrio",
+          "unidad": "gr",
+          "pesaje": 390,
+          "precio": 750
+         },
+         {
+          "tipo": "sal",
+          "marca": "Polasal",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 650
+         },
+         {
+          "tipo": "harina",
+          "marca": "Dona Maria",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 650
+         },
+         {
+          "tipo": "leche en polvo",
+          "marca": "Purelac",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 1000
+         },
+         {
+          "tipo": "pan rallado",
+          "marca": "Onena",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 650
+         },
+         {
+          "tipo": "leche liquida",
+          "marca": "Sterilgalda",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1200
+         },
+         {
+          "tipo": "chicharo verde",
+          "marca": "La Merced",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 750
+         },
+         {
+          "tipo": "frijol blanco",
+          "marca":"La Merced",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 700
+         },
+         {
+          "tipo": "harina",
+          "marca":"Fresko",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 750
+         },
+         {
+          "tipo": "tomate frito",
+          "marca":"Ifa Eliges",
+          "unidad": "gr",
+          "pesaje": 390,
+          "precio": 500
+         },
+         {
+          "tipo": "ketchup",
+          "marca":"Pramesa",
+          "unidad": "gr",
+          "pesaje": 300,
+          "precio": 650
+         },
+         {
+          "tipo": "mayonesa",
+          "marca":"Vima",
+          "unidad": "gr",
+          "pesaje":300,
+          "precio": 1000
+         },
+         {
+          "tipo": "mayonesa",
+          "marca":"Vima",
+          "unidad": "ml",
+          "pesaje": 225,
+          "precio": 950
+         },
+         {
+          "tipo": "pasta de bocaditos",
+          "marca":"Vima",
+          "unidad": "ml",
+          "pesaje": 225,
+          "precio": 1000
+         },
+         {
+          "tipo": "mayonesa",
+          "marca":"Rex",
+          "unidad": "ml",
+          "pesaje": 887,
+          "precio": 1800
+         },
+         {
+          "tipo": "mayonesa",
+          "marca":"Yeya",
+          "unidad": "gr",
+          "pesaje": 420,
+          "precio": 1650
+         },
+         {
+         "tipo": "mayonesa",
+          "marca":"Rayan",
+          "unidad": "gr",
+          "pesaje": 440,
+          "precio": 1200
+         },
+         {
+          "tipo": "dulce(sorbetos)",
+          "marca":"Rancheiro",
+          "unidad": "gr",
+          "pesaje": 78,
+          "precio": 350
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca":"Rancheiro",
+          "unidad": "gr",
+          "pesaje": 90,
+          "precio": 300
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca":"Porleo",
+          "unidad": "gr",
+          "pesaje": 30,
+          "precio": 160
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca":"Maria",
+          "unidad": "gr",
+          "pesaje": 170,
+          "precio": 450
+         }
+         
+    ]
+}
+

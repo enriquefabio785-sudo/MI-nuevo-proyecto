@@ -1,0 +1,196 @@
+{
+  "ID": "MP10",
+  "municipio": "Centro Habana",
+  "coordenadas": "23.13144, -82.37626",
+  "productos": [
+    {
+      "tipo": "cerveza de lata",
+      "marca": "La Fría",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 260
+    },
+    {
+      "tipo": "cerveza de botella",
+      "marca": "Cristal",
+      "unidad": "ml",
+      "pesaje": 350,
+      "precio": 400
+    },
+    {
+      "tipo": "alcohol(ron)",
+      "marca": "Havana Club Añejo Especial",
+      "unidad": "ml",
+      "pesaje": 700,
+      "precio": 2500
+    },
+    {
+      "tipo": "alcohol(whisky)",
+      "marca": "Chanceler",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 1850
+    },
+    {
+      "tipo": "refresco de lata",
+      "marca": "Santa",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 280
+    },
+    {
+      "tipo": "refresco de lata",
+      "marca": "Floridita",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 300
+    },
+    {
+      "tipo": "refresco de pomo",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 1500,
+      "precio": 600
+    },
+    {
+      "tipo": "agua natural",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 1500,
+      "precio": 350
+    },
+    {
+      "tipo": "energizante",
+      "marca": "5 Shot",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 350
+    },
+    {
+      "tipo": "jugo de caja",
+      "marca": "Domty",
+      "unidad": "ml",
+      "pesaje": 235,
+      "precio": 250
+    },
+    {
+      "tipo": "galleta salada",
+      "marca": "Salti Crackers",
+      "unidad": "gr",
+      "pesaje": 595,
+      "precio": 1400
+    },
+    {
+      "tipo": "dulce(galletas)",
+      "marca": "Yupi",
+      "unidad": "gr",
+      "pesaje": 110,
+      "precio": 250
+    },
+    {
+      "tipo": "arroz",
+      "marca": "Del Campo",
+      "unidad": "gr",
+      "pesaje": 2300,
+      "precio": 2500
+    },
+    {
+      "tipo": "frijoles negros",
+      "marca": "Del Campo",
+      "unidad": "gr",
+      "pesaje": 454,
+      "precio": 850
+    },
+    {
+      "tipo": "frijoles negros",
+      "marca": "Del Campo",
+      "unidad": "gr",
+      "pesaje": 454,
+      "precio": 850
+    },
+    {
+      "tipo": "papitas",
+      "marca": "Paparica",
+      "unidad": "gr",
+      "pesaje": 100,
+      "precio": 850
+    },
+    {
+      "tipo": "espaguetis",
+      "marca": "Ada",
+      "unidad": "gr",
+      "pesaje": 500,
+      "precio": 450
+    },
+    {
+      "tipo": "mayonesa",
+      "marca": "Los Atrevidos",
+      "unidad": "ml",
+      "pesaje": 510,
+      "precio": 1550
+    },
+    {
+      "tipo": "ketchup",
+      "marca": "Kurtz",
+      "unidad": "gr",
+      "pesaje": 680,
+      "precio": 1200
+    },
+    {
+      "tipo": "mostaza",
+      "marca": "Kurtz",
+      "unidad": "gr",
+      "pesaje": 567,
+      "precio": 900
+    },
+    {
+      "tipo": "sal",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 650
+    },
+    {
+      "tipo": "sazon",
+      "marca": "Goya",
+      "unidad": "gr",
+      "pesaje": 5,
+      "precio": 50
+    },
+    {
+      "tipo": "leche condensada",
+      "marca": "La Guajirita",
+      "unidad": "gr",
+      "pesaje": 390,
+      "precio": 650
+    },
+    {
+      "tipo": "queso",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 400,
+      "precio": 1500
+    },
+    {
+      "tipo": "pollo",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 2000,
+      "precio": 4500
+    },
+    {
+      "tipo": "picadillo de pollo",
+      "marca": "El Cocinerito",
+      "unidad": "gr",
+      "pesaje": 400,
+      "precio": 400
+    },
+    {
+      "tipo": "higado",
+      "marca": "none",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 900
+    }
+  ]
+}

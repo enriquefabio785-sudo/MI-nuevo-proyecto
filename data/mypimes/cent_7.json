@@ -1,0 +1,182 @@
+{
+  "ID": "MP7",
+  "municipio": "Centro Habana",
+  "coordenadas": "23.13233, -82.36875",
+  "productos": [
+    {
+      "tipo": "cerveza de lata",
+      "marca": "La Fría",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 235
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Presidente",
+      "unidad": "ml",
+      "pesaje": 355,
+      "precio": 235
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Unlaguer",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 235
+    },
+    {
+      "tipo": "cerveza de lata",
+      "marca": "Hollandia",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 235
+    },
+    {
+      "tipo": "refresco de lata",
+      "marca": "Max Booms Boom",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 220
+    },
+    {
+      "tipo": "refresco de lata",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 220
+    },
+    {
+      "tipo": "refresco de pomo",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 1500,
+      "precio": 650
+    },
+    {
+      "tipo": "energizante",
+      "marca": "Shaka",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 350
+    },
+    {
+      "tipo": "energizante",
+      "marca": "5 Shot",
+      "unidad": "ml",
+      "pesaje": 250,
+      "precio": 250
+    },
+    {
+      "tipo": "malta de pomo",
+      "marca": "Guajira",
+      "unidad": "ml",
+      "pesaje": 330,
+      "precio": 280
+    },
+    {
+      "tipo": "agua natural",
+      "marca": "Ciego Montero",
+      "unidad": "ml",
+      "pesaje": 500,
+      "precio": 160
+    },
+    {
+      "tipo": "arroz",
+      "marca": "Energy",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 620
+    },
+    {
+      "tipo": "espaguetis",
+      "marca": "Tu Pasta",
+      "unidad": "gr",
+      "pesaje": 500,
+      "precio": 350
+    },
+    {
+      "tipo": "espaguetis",
+      "marca": "Delicia",
+      "unidad": "gr",
+      "pesaje": 500,
+      "precio": 330
+    },
+    {
+      "tipo": "aceite",
+      "marca": "Vima",
+      "unidad": "ml",
+      "pesaje": 1000,
+      "precio": 990
+    },
+    {
+      "tipo": "pasta de tomate",
+      "marca": "Victoria",
+      "unidad": "gr",
+      "pesaje": 400,
+      "precio": 435
+    },
+    {
+      "tipo": "mayonesa",
+      "marca": "Celorrio",
+      "unidad": "ml",
+      "pesaje": 500,
+      "precio": 1550
+    },
+    {
+      "tipo": "cafe molido",
+      "marca": "¡Buenos Días!",
+      "unidad": "gr",
+      "pesaje": 250,
+      "precio": 1450
+    },
+    {
+      "tipo": "frijoles negros",
+      "marca": "Malú",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 850
+    },
+    {
+      "tipo": "harina",
+      "marca": "Sol de Oro",
+      "unidad": "gr",
+      "pesaje": 1000,
+      "precio": 700
+    },
+    {
+      "tipo": "leche condensada",
+      "marca": "La Guajirita",
+      "unidad": "gr",
+      "pesaje": 390,
+      "precio": 530
+    },
+    {
+      "tipo": "champu",
+      "marca": "NT",
+      "unidad": "ml",
+      "pesaje": 750,
+      "precio": 1250
+    },
+    {
+      "tipo": "sazon",
+      "marca": "Badia",
+      "unidad": "gr",
+      "pesaje": 57,
+      "precio": 780
+    },
+    {
+      "tipo": "sazon",
+      "marca": "Badia",
+      "unidad": "gr",
+      "pesaje": 64,
+      "precio": 780
+    },
+    {
+      "tipo": "papel sanitario",
+      "marca": "Monarca",
+      "unidad": "#",
+      "pesaje": "none",
+      "precio": 640
+    }
+  ]
+}

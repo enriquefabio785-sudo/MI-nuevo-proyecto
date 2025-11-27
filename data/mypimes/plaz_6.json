@@ -229,7 +229,7 @@
           "precio": 100
          },
          {
-          "tipo": "Ketchup",
+          "tipo": "ketchup",
           "marca":"Oderich",
           "unidad": "gr",
           "pesaje": 200,
