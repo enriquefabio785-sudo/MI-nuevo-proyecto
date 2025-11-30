@@ -1,0 +1,172 @@
+{
+ "ID":"015",
+ "municipio":"Plaza",
+ "coordenadas":"23.11862, -82.39112",
+ "productos":[
+        {
+          "tipo": "caja de cigarro",
+          "marca": "Englishman",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 600
+         },
+         {
+          "tipo": "caja de cigarro",
+          "marca": "H Upmann ",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 550
+        },
+         {
+          "tipo": "malta de lata",
+          "marca": "Perla Negra",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 300
+          
+        },    
+         {
+          "tipo": "cerveza de pomo",
+          "marca": "Parranda",
+          "unidad": "ml",
+          "pesaje": 1500,
+          "precio": 600
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Santa",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 240
+         },
+         {
+          "tipo": "alcohol(vino tinto)",
+          "marca": "Bodega de Conde",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1200
+         },
+         {
+          "tipo": "alcohol(ron)",
+          "marca": "Cubay",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 350
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Reserve",
+          "unidad":"ml",
+          "pesaje":750,
+          "precio": 1400
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Castellum",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 450
+         },
+         {
+          "tipo": "crema dulce",
+          "marca": "Media Crema",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 560
+        },
+         {
+          "tipo": "cafe molido",
+          "marca": "Terra Da Gente",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 2600
+         },
+         {
+          "tipo": "pasta de bocaditos",
+          "marca": "Aldaketa",
+          "unidad": "ml",
+          "pesaje": 465,
+          "precio": 1800
+         },
+         {
+          "tipo": "atun en aceite",
+          "marca": "Docanned Star",
+          "unidad": "gr",
+          "pesaje": 140,
+          "precio": 500
+
+         },
+         {
+          "tipo": "frijoles negros",
+          "marca": "Granipack",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 500
+         },
+         {
+          "tipo": "frijoles blancos",
+          "marca": "Del Campo",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 780
+         },
+         {
+          "tipo": "pure de tomate",
+          "marca": "La Costeña",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 1100
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Kurtz",
+          "unidad": "ml",
+          "pesaje": 887,
+          "precio": 2600
+         },
+         {
+          "tipo": "vinagre",
+          "marca": "Aldaketa",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 760
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "La Excelencia",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 640
+         },
+         {
+          "tipo": "champu",
+           "marca": "H&S",
+           "unidad": "ml",
+           "pesaje": 330,
+           "precio": 2350
+         },
+         {
+          "tipo": "arroz",
+          "marca": "Rainha",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 700
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Ada",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "intima",
+          "marca": "First Lady",
+          "unidad": "#",
+          "pesaje": 10,
+          "precio": 400
+         }
+         
+    ]
+}
+

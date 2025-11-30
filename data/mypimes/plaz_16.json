@@ -1,0 +1,214 @@
+{
+ "ID":"016",
+ "municipio":"Plaza",
+ "coordenadas":"23.11654, -82.38638",
+ "productos":[
+        {
+          "tipo": "caja de cigarro",
+          "marca": "Englishman",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 1100
+         },
+         {
+          "tipo": "caja de cigarro",
+          "marca": "H Upmann ",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 750
+        },
+         {
+          "tipo": "caja de cigarro",
+          "marca": "Popular Rojo",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 750
+          
+        },    
+         {
+          "tipo": "agua natural",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 200
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Santa",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Max Booms Boom",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "alcohol(ron)",
+          "marca": "Havana Club",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 2500
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Howells",
+          "unidad":"ml",
+          "pesaje":1000,
+          "precio": 1600
+         },
+         {
+          "tipo": "energizante",
+          "marca": "XL",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 300
+         },
+         {
+          "tipo": "refresco de pomo",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 1500,
+          "precio": 650
+        },
+         {
+          "tipo": "alcohol(vodka)",
+          "marca": "Pantana",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1600
+         },
+         {
+          "tipo": "pasta de bocaditos",
+          "marca": "Aldaketa",
+          "unidad": "ml",
+          "pesaje": 465,
+          "precio": 1700
+         },
+         {
+          "tipo": "atun en aceite",
+          "marca": "Docanned Star",
+          "unidad": "gr",
+          "pesaje": 140,
+          "precio": 650
+
+         },
+         {
+          "tipo": "frijoles negros",
+          "marca": "Extremo",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 1200
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Rayan",
+          "unidad": "gr",
+          "pesaje": 440,
+          "precio": 900
+         },
+         {
+          "tipo": "sal",
+          "marca": "Polasal",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 450
+         },
+         {
+          "tipo": "ketchup",
+          "marca": "Kurtz",
+          "unidad": "ml",
+          "pesaje": 680,
+          "precio": 1100
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Black Out",
+          "unidad": "gr",
+          "pesaje": 60,
+          "precio": 250
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Banetti",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 450
+         },
+         {
+          "tipo": "cafe molido",
+           "marca": "Aroma",
+           "unidad": "gr",
+           "pesaje": 250,
+           "precio": 2400
+         },
+         {
+          "tipo": "arroz",
+          "marca": "Rainha",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 850
+         },
+         {
+          "tipo": "leche en polvo",
+          "marca": "Leche Entera",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 2800
+         },
+         {
+          "tipo": "intima",
+          "marca": "My A+",
+          "unidad": "#",
+          "pesaje": 10,
+          "precio": 500
+         },
+         {
+          "tipo": "intima",
+          "marca": "My A+",
+          "unidad": "#",
+          "pesaje": 10,
+          "precio": 500
+         },
+         {
+          "tipo": "pasta dental ",
+          "marca": "Colgate",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 1100
+         },
+         {
+          "tipo": "espaguetis",
+          "marca": "Elessa",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 400
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Maria",
+          "unidad": "gr",
+          "pesaje": 170,
+          "precio": 450
+         },
+         {
+          "tipo": "crema para cafe",
+          "marca": "Nestle",
+          "unidad": "gr",
+          "pesaje": 453,
+          "precio": 3000
+         },
+         {
+          "tipo": "detergente liquido",
+          "marca": "Kapital",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 900
+         }
+         
+    ]
+}
+
