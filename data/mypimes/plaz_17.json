@@ -1,0 +1,197 @@
+{"ID":"017",
+ "municipio":"Plaza",
+ "coordenadas":"23.11572, -82.40066",
+ "productos":[
+        {
+          "tipo": "galleta salada",
+          "marca": "Salti Tacos",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1150
+         },
+         {
+          "tipo": "cafe molido",
+          "marca": "El Cafetazo",
+          "unidad": "gr",
+          "pesaje": 284,
+          "precio": 2200
+        },
+         {
+          "tipo": "pan rallado",
+          "marca": "Onena",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 850
+         },
+         {
+          "tipo": "zumo de limon",
+          "marca":"Mega Limon",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1050
+         },
+         {
+          "tipo": "aceite de oliva",
+          "marca": "Aldaketa",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 5500
+         },
+         {
+          "tipo": "aceite",
+          "marca": "Coamo",
+          "unidad": "ml",
+          "pesaje": 900,
+          "precio": 890
+         },
+         {
+          "tipo": "bebida de avena",
+          "marca": "Scotti",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1550
+
+         },
+         {
+         "tipo": "leche liquida",
+          "marca": "Vima",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1300
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca":"Max Booms Boom",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 300
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Coca Cola",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 370
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "7 Up",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 360
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca": "Cristal",
+          "unidad": "ml",
+          "pesaje": 35,
+          "precio": 400
+         },
+         {
+          "tipo": "cerveza de botella",
+          "marca": "Bucanero",
+          "unidad": "ml",
+          "pesaje": 350,
+          "precio": 400
+         },
+         {
+          "tipo": "espuma de afeitar",
+          "marca": "Snonas",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 1870
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "Ruffy",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 720
+         },
+         {
+          "tipo": "cepillo de dientes",
+          "marca": "none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 200
+         },
+         {
+          "tipo": "cepillo de dientes",
+          "marca": "Colgate",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 1620
+         },
+         {
+          "tipo": "talco",
+          "marca": "Trompy",
+          "unidad": "gr",
+          "pesaje": 250,
+          "precio": 1700
+         },
+         {
+          "tipo": "detergente en polvo",
+          "marca": "V&E",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 630
+         },
+         {
+          "tipo": "frijoles negros",
+          "marca": "Feijo Da Serra",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 1050
+         },
+         {
+          "tipo": "alcohol(vino)",
+          "marca": "I Heart",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 2000
+         },
+         {
+          "tipo": "aderezo",
+          "marca": "Mega Suprema",
+          "unidad": "gr",
+          "pesaje": 790,
+          "precio": 1270
+         },
+         {
+          "tipo": "pasta de bocaditos",
+          "marca": "Aldaketa",
+          "unidad": "gr",
+          "pesaje": 450,
+          "precio": 1800
+         },
+         {
+          "tipo": "mayonesa",
+          "marca":"Celorrio",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 1600
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 700
+         },
+         {
+          "tipo": "leche condensada",
+          "marca":"Zivel",
+          "unidad": "gr",
+          "pesaje": 390,
+          "precio": 570
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca":"Black Out",
+          "unidad": "gr",
+          "pesaje": 60,
+          "precio": 190
+         }
+    ]
+}
+

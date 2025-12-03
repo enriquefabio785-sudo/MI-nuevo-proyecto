@@ -1,0 +1,92 @@
+{"ID":"018",
+ "municipio":"Plaza",
+ "coordenadas":"23.11684, -82.400271",
+ "productos":[
+        {
+          "tipo": "detergente liquido",
+          "marca": "Clea Max",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1000
+         },
+         {
+          "tipo": "intima",
+          "marca": "My A+",
+          "unidad": "#",
+          "pesaje": 10,
+          "precio": 550
+        },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Carmelita",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 850
+          
+        },    
+         {
+          "tipo": "leche condensada",
+          "marca": "La Granjera",
+          "unidad": "gr",
+          "pesaje": 390,
+          "precio": 660
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Ada",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 400
+         },
+         {
+          "tipo": "chicharos verdes",
+          "marca": "Del Campo",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 750
+         },
+         {
+          "tipo": "zumo de limon",
+          "marca": "criollo",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 500
+         },
+         {
+          "tipo": "pastaa de tomate",
+          "marca": "Olumba",
+          "unidad":"gr",
+          "pesaje":400,
+          "precio": 600
+         },
+         {
+          "tipo": "vinagre",
+          "marca": "criollo",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 400
+         },
+         {
+          "tipo": "vino seco",
+          "marca": "criollo",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 400
+         },
+         {
+          "tipo": "alcohol(vino tinto)",
+          "marca": "La Baronne",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1650
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Salti Crackers",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1610
+         }
+    ]
+}
+

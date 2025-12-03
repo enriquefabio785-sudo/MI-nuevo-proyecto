@@ -1,0 +1,114 @@
+{"ID":"012",
+ "municipio":"Plaza",
+ "coordenadas":"23.11615, -82.38604",
+ "productos":[
+        {
+          "tipo": "champu",
+         "marca": "H&S",
+         "unidad": "ml",
+         "pesaje": 330,
+         "precio": 5200
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "Monarca",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 700
+        },
+         {
+          "tipo": "esponja",
+          "marca": "Zaas!",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 70
+          
+        },    
+         {
+          "tipo": "talco",
+          "marca": "Trompy",
+          "unidad": "gr",
+          "pesaje": 250,
+          "precio": 1450
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Trio 4",
+          "unidad": "gr",
+          "pesaje": 28,
+          "precio": 100
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Chanceler",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1650
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Scottsman",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1750
+         },
+         {
+          "tipo": "alcohol(tequila)",
+          "marca": "Monte De La Rosa",
+          "unidad":"ml",
+          "pesaje": 1000,
+          "precio": 1750
+         },
+         {
+          "tipo": "alcohol(ron)",
+          "marca": "Havana Club",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 2300
+         },
+         {
+          "tipo": "ketchup",
+          "marca":"Kurtz",
+          "unidad": "gr",
+          "pesaje": 680,
+          "precio": 1150
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Rayan",
+          "unidad": "ml",
+          "pesaje": 350,
+          "precio": 650
+         },
+         {
+          "tipo": "crema dulce",
+          "marca": "Media Crema",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 550
+         },
+         {
+          "tipo": "frijoles blancos",
+          "marca": "La Merced",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 500
+
+         },
+         {
+          "tipo": "lentejas",
+          "marca": "La Merced",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 580
+         },
+         {
+          "tipo": "garvanzos",
+          "marca": "La Merced",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 620
+         }
+    ]
+}
+

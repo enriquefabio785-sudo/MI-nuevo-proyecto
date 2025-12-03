@@ -1,0 +1,239 @@
+{"ID":"019",
+ "municipio":"Plaza",
+ "coordenadas":"23.11867, -82.40249",
+ "productos":[
+        {
+          "tipo": "alcohol(ron)",
+          "marca": "Havana Club",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 2450
+         },
+         {
+          "tipo": "alcohol(vino tinto)",
+          "marca": "Cavalla",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 2500
+        },
+         {
+          "tipo": "pan rallado",
+          "marca": "Coviran",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 650
+          
+        },    
+         {
+          "tipo": "arroz",
+          "marca": "San Diego",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 800
+         },
+         {
+          "tipo": "sal",
+          "marca": "Eliges",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 700
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Fresko",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 980
+         },
+         {
+          "tipo": "azucar negra",
+          "marca": "De La Montaña",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 440
+         },
+         {
+          "tipo": "cerveza de botella",
+          "marca": "Cristal",
+          "unidad":"ml",
+          "pesaje": 350,
+          "precio": 400
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca": "Presidente",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 280
+         },
+         {
+          "tipo": "energizante",
+          "marca":"Red Bull",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 320
+         },
+         {
+          "tipo": "jugo de fruta",
+          "marca": "Goliath",
+          "unidad": "ml",
+          "pesaje": 946,
+          "precio": 900
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "7 Up",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 400
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Max Booms Boom",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 300
+
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Pepsi",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 320
+         },
+         {
+          "tipo": "pasta dental",
+          "marca": "Colgate",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 1400
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "Encanto",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 900
+         },
+         {
+          "tipo": "enjuague bucal",
+          "marca": "Nature Fresh",
+          "unidad": "ml",
+          "pesaje": 719,
+          "precio": 1400
+         },
+         {
+          "tipo": "desodorante",
+          "marca": "Speed Stick",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 2900
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Salti Blcks",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1300
+         },
+         {
+          "tipo": "refresco de paquete",
+          "marca": "Zuko",
+          "unidad": "ml",
+          "pesaje": 2000,
+          "precio": 150
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Milk",
+          "unidad": "gr",
+          "pesaje": 360,
+          "precio": 1200
+         },
+         {
+          "tipo": "carton de huevos",
+          "marca": "none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 3200
+         },
+         {
+          "tipo": "frijoles colorados",
+          "marca": "Del Campo",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 1080
+         },
+         {
+          "tipo": "vinagre",
+          "marca": "Aldaketa",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1000
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Celorrio",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 1800
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Hellmanns",
+          "unidad": "ml",
+          "pesaje": 739,
+          "precio": 6000
+         },
+         {
+          "tipo": "ketchup",
+          "marca": "Kurtz",
+          "unidad": "gr",
+          "pesaje": 680,
+          "precio": 1280
+         },
+         {
+          "tipo": "pasta de bocaditos",
+          "marca": "Aldaketa",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 1800
+         },
+         {
+          "tipo": "dulce(sorbetos)",
+          "marca":"Renata",
+          "unidad": "gr",
+          "pesaje": 115,
+          "precio": 350
+         },
+         {
+          "tipo": "leche condensada",
+          "marca":"Zivel",
+          "unidad": "gr",
+          "pesaje": 390,
+          "precio": 680
+         },
+         {
+          "tipo": "leche liquida",
+          "marca":"Vima",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1200
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca":"Eliges",
+          "unidad": "gr",
+          "pesaje": 800,
+          "precio": 1800
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca":"Eliges",
+          "unidad": "gr",
+          "pesaje": 200,
+          "precio": 450
+         }
+    ]
+}
