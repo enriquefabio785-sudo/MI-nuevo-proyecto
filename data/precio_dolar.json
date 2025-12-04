@@ -1,0 +1,32 @@
+{
+  "fuente": "El Toque - https://eltoque.com/",
+  "datos": [
+    {"fecha": "2025-11-08", "precio": 450},
+    {"fecha": "2025-11-09", "precio": 420},
+    {"fecha": "2025-11-10", "precio": 430},
+    {"fecha": "2025-11-11", "precio": 440},
+    {"fecha": "2025-11-12", "precio": 450},
+    {"fecha": "2025-11-13", "precio": 460},
+    {"fecha": "2025-11-14", "precio": 465},
+    {"fecha": "2025-11-15", "precio": 470},
+    {"fecha": "2025-11-16", "precio": 460},
+    {"fecha": "2025-11-17", "precio": 450},
+    {"fecha": "2025-11-18", "precio": 440},
+    {"fecha": "2025-11-19", "precio": 440},
+    {"fecha": "2025-11-20", "precio": 435},
+    {"fecha": "2025-11-21", "precio": 435},
+    {"fecha": "2025-11-22", "precio": 435},
+    {"fecha": "2025-11-23", "precio": 435},
+    {"fecha": "2025-11-24", "precio": 435},
+    {"fecha": "2025-11-25", "precio": 435},
+    {"fecha": "2025-11-26", "precio": 440},
+    {"fecha": "2025-11-27", "precio": 440},
+    {"fecha": "2025-11-28", "precio": 445},
+    {"fecha": "2025-11-29", "precio": 445},
+    {"fecha": "2025-11-30", "precio": 450},
+    {"fecha": "2025-12-01", "precio": 450},
+    {"fecha": "2025-12-02", "precio": 450},
+    {"fecha": "2025-12-03", "precio": 450},
+    {"fecha": "2025-12-04", "precio": 450}
+  ]
+}
