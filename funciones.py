@@ -13,15 +13,15 @@ for i in lista:
 def busqueda(tipo=None,marca=None,unidad=None,pesaje=None,precio=None):
     buscados=[]
     for x in lista_de_productos:
-        if tipo is not None and x["tipo"] != tipo:  # Solo filtrar si NO coincide
+        if tipo is not None and x["tipo"] != tipo:  
           continue
-        if marca is not None and x["marca"] != marca:  # Solo filtrar si NO coincide
+        if marca is not None and x["marca"] != marca:  
           continue
-        if unidad is not None and x["unidad"] != unidad:  # Solo filtrar si NO coincide
+        if unidad is not None and x["unidad"] != unidad:  
           continue
-        if pesaje is not None and x["pesaje"] != pesaje:  # Solo filtrar si NO coincide
+        if pesaje is not None and x["pesaje"] != pesaje:  
           continue
-        if precio is not None and x["precio"] != precio:  # Solo filtrar si NO coincide
+        if precio is not None and x["precio"] != precio:  
           continue
         buscados.append(x)
     return buscados
