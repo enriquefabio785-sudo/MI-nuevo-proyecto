@@ -1,0 +1,141 @@
+{"ID":"022",
+ "municipio":"Plaza",
+ "coordenadas":"23.12922, -82.40289",
+ "productos":[
+        {
+          "tipo": "papel sanitario",
+          "marca": "La Excelencia",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 600
+         },
+         {
+          "tipo": "crema de piel",
+          "marca": "American Touch",
+          "unidad": "ml",
+          "pesaje": 532,
+          "precio": 1000
+        },
+         {
+          "tipo": "frazada de piso",
+          "marca": "none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 300
+          
+        },    
+         {
+          "tipo": "ketchup",
+          "marca": "Pramesa",
+          "unidad": "gr",
+          "pesaje": 300,
+          "precio": 500
+         },
+         {
+          "tipo": "leche condensada",
+          "marca": "La Granjera",
+          "unidad": "gr",
+          "pesaje": 390,
+          "precio": 580
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Pramesa",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 1000
+         },
+         {
+          "tipo": "verduras mixtas",
+          "marca": "Sabrosisimo",
+          "unidad": "gr",
+          "pesaje": 425,
+          "precio": 750
+         },
+         {
+          "tipo": "espaguetis",
+          "marca": "Imperial",
+          "unidad":"gr",
+          "pesaje":250,
+          "precio": 250
+         },
+         {
+          "tipo": "espaguetis",
+          "marca": "Pasta La Mia",
+          "unidad":"gr",
+          "pesaje":500,
+          "precio": 350
+         },
+         {
+          "tipo": "detergente en polvo",
+          "marca":"V&E",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 630
+         },
+         {
+          "tipo": "carton de huevos",
+          "marca": "none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 3200
+         },
+         {
+          "tipo": "alcohol(vino tinto)",
+          "marca": "Adega do Conde",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1300
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Whytehall",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1550
+
+         },
+         {
+          "tipo": "alcohol(ron)",
+          "marca": "Santiago De Cuba",
+          "unidad": "ml",
+          "pesaje": 700,
+          "precio": 10000
+         },
+         {
+          "tipo": "dulce(sorbetos)",
+          "marca": "Aymore",
+          "unidad": "gr",
+          "pesaje": 105,
+          "precio": 400
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Lamore",
+          "unidad": "gr",
+          "pesaje": 150,
+          "precio": 400
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Salti Crackers",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1150
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Anita Princess",
+          "unidad": "gr",
+          "pesaje": 145,
+          "precio": 500
+         },
+         {
+          "tipo": "cerveza de botella",
+          "marca": "Cristal",
+          "unidad": "ml",
+          "pesaje": 350,
+          "precio": 350
+         }
+    ]
+}

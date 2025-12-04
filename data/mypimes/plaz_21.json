@@ -1,0 +1,127 @@
+{"ID":"021",
+ "municipio":"Plaza",
+ "coordenadas":"23.12124, -82.40448",
+ "productos":[
+        {
+          "tipo": "mayonesa",
+          "marca":"Kurtz",
+          "unidad": "ml",
+          "pesaje": 887,
+          "precio": 2500
+         },
+         {
+          "tipo": "arroz",
+          "marca": "Disempre",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 800
+        },
+         {
+          "tipo": "frijoles colorados",
+          "marca": "Del Campo",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 800
+          
+        },    
+         {
+          "tipo": "alcohol(vino tinto)",
+          "marca": "La Baronne",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1500
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Maisdoce",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 850
+         },
+         {
+          "tipo": "leche condensada",
+          "marca": "La Granjera",
+          "unidad": "gr",
+          "pesaje": 390,
+          "precio": 550
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Max Booms Boom",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 240
+         },
+         {
+          "tipo": "energizante",
+          "marca": "5 Shot",
+          "unidad":"ml",
+          "pesaje":250,
+          "precio": 280
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca": "Unlaguer",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 230
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca": "Cristal",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 350
+         },
+         {
+          "tipo": "cerveza de botella",
+          "marca": "Cristal",
+          "unidad": "ml",
+          "pesaje": 350,
+          "precio": 350
+         },
+         {
+          "tipo": "papitas",
+          "marca": "Doritos",
+          "unidad": "gr",
+          "pesaje": 276,
+          "precio": 2300
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Salricas",
+          "unidad": "gr",
+          "pesaje": 590,
+          "precio": 1300
+
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Kremah",
+          "unidad": "gr",
+          "pesaje": 300,
+          "precio": 680
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Maria",
+          "unidad": "gr",
+          "pesaje": 170,
+          "precio": 380
+         },
+         {
+          "tipo": "mantequilla",
+          "marca": "Froxa",
+          "unidad": "gr",
+          "pesaje": 250,
+          "precio": 2200
+         },
+         {
+          "tipo": "queso gouda",
+          "marca": "Jacas",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 2350
+         }
+    ]
+}

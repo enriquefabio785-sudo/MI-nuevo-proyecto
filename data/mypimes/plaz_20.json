@@ -1,0 +1,303 @@
+{"ID":"020",
+ "municipio":"Plaza",
+ "coordenadas":"23.12114, -82.40501",
+ "productos":[
+        {
+          "tipo": "cerveza de lata",
+          "marca": "Unlaguer",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 240
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca": "Cristal",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 350
+        },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Santa",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 230
+          
+        },    
+         {
+          "tipo": "refresco de lata",
+          "marca": "Pepsi",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 250
+         },
+         {
+          "tipo": "energizante",
+          "marca": "Tigon",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 350
+         },
+         {
+          "tipo": "alcohol(energizante)",
+          "marca": "Shaka",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 350
+         },
+         {
+          "tipo": "alcohol(energizante)",
+          "marca": "Vodka",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 350
+         },
+         {
+          "tipo": "malta de pomo",
+          "marca": "Guajira",
+          "unidad":"ml",
+          "pesaje": 330,
+          "precio": 270
+         },
+         {
+          "tipo": "crema dulce",
+          "marca": "Media Crema",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 500
+         },
+         {
+          "tipo": "tomate frito",
+          "marca":"Eliges",
+          "unidad": "gr",
+          "pesaje": 390,
+          "precio": 550
+         },
+         {
+          "tipo": "atun en aceite",
+          "marca": "Docanned Star",
+          "unidad": "gr",
+          "pesaje": 140,
+          "precio": 600
+         },
+         {
+          "tipo": "pomo de refresco",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 1500,
+          "precio": 650
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "La Excelencia",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 600
+
+         },
+         {
+          "tipo": "dulce(sorbetos)",
+          "marca": "Renata",
+          "unidad": "gr",
+          "pesaje": 115,
+          "precio": 350
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Salti Crackers",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1300
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Crokantinas",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1200
+         },
+         {
+          "tipo": "barra de guayaba",
+          "marca": "none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 350
+         },
+         {
+          "tipo": "pasta dental",
+          "marca": "Colgate",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 1200
+         },
+         {
+          "tipo": "detergente liquido",
+          "marca": "Clea Max",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 750
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Hatari",
+          "unidad": "gr",
+          "pesaje": 190,
+          "precio": 650
+         },
+         {
+          "tipo": "agua natural",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 160
+         },
+         {
+          "tipo": "agua natural",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 1500,
+          "precio": 280
+         },
+         {
+          "tipo": "jugo de fruta",
+          "marca": "Goliath",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 750
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Chanceler",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1500
+         },
+         {
+          "tipo": "alcohol(ron)",
+          "marca": "Havana Club",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 2300
+         },
+         {
+          "tipo": "vinagre",
+          "marca": "Aldaketa",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 750
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 650
+         },
+         {
+          "tipo": "maiz en grano",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 425,
+          "precio": 750
+         },
+         {
+          "tipo": "pasta de bocaditos",
+          "marca":"Aldaketa",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 2000
+         },
+         {
+          "tipo": "mayonesa",
+          "marca":"Celorrio",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 1600
+         },
+         {
+          "tipo": "mayonesa",
+          "marca":"Kurtz",
+          "unidad": "ml",
+          "pesaje": 887,
+          "precio": 2500
+         },
+         {
+          "tipo": "dulce(caramelos)",
+          "marca":"Freegells",
+          "unidad": "gr",
+          "pesaje": 27,
+          "precio": 100
+         },
+         {
+          "tipo": "carton de huevos",
+          "marca":"none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 3300
+         },
+         {
+          "tipo": "caja de cigarros",
+          "marca":"H Upmann",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 650
+         },
+         {
+          "tipo": "caja de cigarros",
+          "marca":"Popular Rojo",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 650
+         },
+         {
+          "tipo": "caja de cigarros",
+          "marca":"Englishman",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 600
+         },
+         {
+          "tipo": "pan rallado",
+          "marca": "Onena",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 700
+         },
+         {
+         "tipo": "chicharos verdes",
+          "marca":"Del Campo",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 750
+         },
+         {
+          "tipo": "frijoles negros",
+          "marca":"Del Campo",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 750
+         },
+         {
+          "tipo": "frijoles colorados",
+          "marca":"Del Campo",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 7500
+         },
+         {
+          "tipo": "coditos",
+          "marca":"Napolitana",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "espaguetis",
+          "marca":"Pasta La Mia",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         }
+    ]
+}
+
