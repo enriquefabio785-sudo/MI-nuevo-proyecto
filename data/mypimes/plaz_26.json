@@ -1,0 +1,156 @@
+{"ID":"026",
+ "municipio":"Plaza",
+ "coordenadas":"23.13056, -82.38011",
+ "productos":[
+        {
+          "tipo": "refresco de lata",
+          "marca": "Santa",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "jugo de lata",
+          "marca": "Sunchy",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 350
+        },
+         {
+          "tipo": "alcohol(energizante)",
+          "marca": "Shaka",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 390
+          
+        },    
+         {
+          "tipo": "energizante",
+          "marca": "Twist",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 260
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Max Booms Boom",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "malta de lata",
+          "marca": "Kara",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 350
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Noble Vox",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 380
+         },
+         {
+          "tipo": "cerveza",
+          "marca": "1830",
+          "unidad":"ml",
+          "pesaje":330,
+          "precio": 250
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Reserve 7",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1800
+         },
+         {
+          "tipo": "alcohol(vodka)",
+          "marca":"Ninnoff",
+          "unidad": "ml",
+          "pesaje": 900,
+          "precio": 1800
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Noble Vox",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1750
+         },
+         {
+          "tipo": "agua natural",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 1500,
+          "precio": 400
+         },
+         {
+          "tipo": "agua natural",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 5000,
+          "precio": 1000
+
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Energy",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 740
+         },
+         {
+          "tipo": "lentejas",
+          "marca": "Penelas",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 720
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Ada",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 580
+         },
+         {
+          "tipo": "detergente liquido",
+          "marca": "Kapital",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 800
+         },
+         {
+          "tipo": "espaguetis",
+          "marca": "Doga",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 340
+         },
+         {
+          "tipo": "cafe molido",
+          "marca": "Candado",
+          "unidad": "gr",
+          "pesaje": 284,
+          "precio": 2000
+         },
+         {
+          "tipo": "sal",
+          "marca": "Potiguar",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 600
+         },
+         {
+          "tipo": "carton de huevos",
+          "marca": "none",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 3300
+         }
+    ]
+}
+

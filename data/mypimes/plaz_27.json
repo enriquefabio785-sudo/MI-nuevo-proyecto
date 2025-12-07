@@ -1,0 +1,163 @@
+{"ID":"027",
+ "municipio":"Plaza",
+ "coordenadas":"23.12956, -82.38028",
+ "productos":[
+        {
+          "tipo": "alcohol(whisky)",
+          "marca": "Black Blend",
+          "unidad": "ml",
+          "pesaje": 200,
+          "precio": 370
+         },
+         {
+          "tipo": "aceite",
+          "marca": "Zer",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 690
+        },
+         {
+          "tipo": "jugo de caja",
+          "marca": "Juss",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 650
+          
+        },    
+         {
+          "tipo": "cafe molido",
+          "marca": "Caribe",
+          "unidad": "gr",
+          "pesaje": 284,
+          "precio": 2150
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Saude",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 1000
+         },
+         {
+          "tipo": "crema dulce",
+          "marca": "Media Crema",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 450
+         },
+         {
+          "tipo": "leche condensada",
+          "marca": "La Granjera",
+          "unidad": "gr",
+          "pesaje": 390,
+          "precio": 600
+         },
+         {
+          "tipo": "caja de cigarros",
+          "marca": "H Upmann",
+          "unidad":"none",
+          "pesaje":"none",
+          "precio": 400
+         },
+         {
+          "tipo": "harina",
+          "marca": "Cuetara",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 650
+         },
+         {
+          "tipo": "arroz",
+          "marca":"La Merced",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 1350
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Siddo",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "La Excelencia",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 550
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "Liric",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 550
+
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "La Excelencia",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 600
+         },
+         {
+          "tipo": "champu",
+          "marca": "NT Argan",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 1250
+         },
+         {
+          "tipo": "jabon",
+          "marca": "Marwa",
+          "unidad": "gr",
+          "pesaje": 100,
+          "precio": 190
+         },
+         {
+          "tipo": "espaguetis",
+          "marca": "Delicia",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "champu",
+          "marca": "Silko",
+          "unidad": "ml",
+          "pesaje": 400,
+          "precio": 1500
+         },
+         {
+          "tipo": "pasta de bocaditos",
+          "marca": "Differ",
+          "unidad": "ml",
+          "pesaje": 290,
+          "precio": 500
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Cosami",
+          "unidad": "ml",
+          "pesaje": 465,
+          "precio": 1555
+         },
+         {
+          "tipo": "dulce(fresa en almibar)",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 425,
+          "precio": 750
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 650
+         }
+    ]
+}
+

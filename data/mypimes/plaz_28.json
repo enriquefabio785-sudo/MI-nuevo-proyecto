@@ -1,0 +1,149 @@
+{"ID":"028",
+ "municipio":"Plaza",
+ "coordenadas":"23.12945, -82.38061",
+ "productos":[
+        {
+          "tipo": "alcohol(energizante)",
+          "marca": "Shaka",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 450
+         },
+         {
+          "tipo": "refresco de pomo",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 280
+        },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Pepsi",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 300
+          
+        },    
+         {
+          "tipo": "refresco de lata",
+          "marca": "Santa",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 265
+         },
+         {
+          "tipo": "jabon",
+          "marca": "Marwa",
+          "unidad": "gr",
+          "pesaje": 100,
+          "precio": 175
+         },
+         {
+          "tipo": "pasta dental",
+          "marca": "Coolwhite",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 660
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Crokantinas",
+          "unidad": "gr",
+          "pesaje": 577,
+          "precio": 1250
+         },
+         {
+          "tipo": "leche condensada",
+          "marca": "La Granjera",
+          "unidad": "gr",
+          "pesaje": 390,
+          "precio": 590
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Doricas",
+          "unidad": "gr",
+          "pesaje": 525,
+          "precio": 1350
+         },
+         {
+          "tipo": "cafe molido",
+          "marca":"Prince",
+          "unidad": "gr",
+          "pesaje": 284,
+          "precio": 1890
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Celorrio",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 1940
+         },
+         {
+          "tipo": "pasta de bocaditos",
+          "marca": "Aldaketa",
+          "unidad": "ml",
+          "pesaje": 465,
+          "precio": 2365
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 840
+
+         },
+         {
+          "tipo": "frijoles negros",
+          "marca": "Malu",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 1070
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Sublime",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 770
+         },
+         {
+          "tipo": "arroz",
+          "marca": "Tulipan",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 870
+         },
+         {
+          "tipo": "maiz en grano",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 420,
+          "precio": 750
+         },
+         {
+          "tipo": "aceite",
+          "marca": "Vima",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 990
+         },
+         {
+          "tipo": "alcohol(vino tinto)",
+          "marca": "Castañeda",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1600
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Cosami",
+          "unidad": "ml",
+          "pesaje": 465,
+          "precio": 1555
+         }
+    ]
+}
+

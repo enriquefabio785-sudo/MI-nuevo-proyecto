@@ -1,0 +1,163 @@
+{"ID":"024",
+ "municipio":"Plaza",
+ "coordenadas":"23.12936, -82.37943",
+ "productos":[
+        {
+          "tipo": "agua natural",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 1500,
+          "precio": 300
+         },
+         {
+          "tipo": "agua natural",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 160
+        },
+         {
+          "tipo": "refresco de pomo",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 1500,
+          "precio": 700
+          
+        },    
+         {
+          "tipo": "malta de lata",
+          "marca": "Perla Negra",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 250
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca": "Cristal",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 320
+         },
+         {
+          "tipo": "atun en aceite",
+          "marca": "Docanned Star",
+          "unidad": "gr",
+          "pesaje": 140,
+          "precio": 600
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Kurtz",
+          "unidad": "gr",
+          "pesaje": 887,
+          "precio": 2600
+         },
+         {
+          "tipo": "ketchup",
+          "marca": "Kurtz",
+          "unidad":"gr",
+          "pesaje":680,
+          "precio": 1000
+         },
+         {
+          "tipo": "cafe molido",
+          "marca": "Terra Da Gente",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 2600
+         },
+         {
+          "tipo": "pan rallado",
+          "marca":"Onena",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 650
+         },
+         {
+          "tipo": "arroz",
+          "marca": "Rainha",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 650
+         },
+         {
+          "tipo": "crema para cafe",
+          "marca": "Mc Daniel",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 1800
+         },
+         {
+          "tipo": "crema dulce",
+          "marca": "Media Crema",
+          "unidad": "ml",
+          "pesaje": 250,
+          "precio": 550
+
+         },
+         {
+          "tipo": "dulce(caramelos)",
+          "marca": "Freegells",
+          "unidad": "gr",
+          "pesaje": 27,
+          "precio": 170
+         },
+         {
+          "tipo": "frijoles negros",
+          "marca": "Del Campo",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 700
+         },
+         {
+          "tipo": "frijoles colorados",
+          "marca": "Del Campo",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 700
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 600
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "La Excelencia",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 750
+         },
+         {
+          "tipo": "crema de piel",
+          "marca": "American Touch",
+          "unidad": "ml",
+          "pesaje": 532,
+          "precio": 1500
+         },
+         {
+          "tipo": "pasta dental",
+          "marca": "Colgate",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 1800
+         },
+         {
+          "tipo": "ensalada de verduras",
+          "marca": "La Costeña",
+          "unidad": "gr",
+          "pesaje": 410,
+          "precio": 800
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 650
+         }
+         
+    ]
+}

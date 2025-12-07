@@ -1,0 +1,246 @@
+{"ID":"025",
+ "municipio":"Plaza",
+ "coordenadas":"23.12916, -82.3796",
+ "productos":[
+        {
+          "tipo": "atun en aceite",
+          "marca": "Docanned Star",
+          "unidad": "gr",
+          "pesaje": 140,
+          "precio": 750
+         },
+         {
+          "tipo": "leche condensada",
+          "marca": "La Guajirita",
+          "unidad": "gr",
+          "pesaje": 390,
+          "precio": 600
+        },
+         {
+          "tipo": "espaguetis",
+          "marca": "Delicia",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+          
+        },    
+         {
+          "tipo": "coditos",
+          "marca": "Delicia",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 340
+         },
+         {
+          "tipo": "macarrones",
+          "marca": "Delicia",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 340
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Arden",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "arroz",
+          "marca": "Rainha",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 750
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Energy",
+          "unidad":"gr",
+          "pesaje":1000,
+          "precio": 750
+         },
+         {
+          "tipo": "frijoles negros",
+          "marca":"Extremo",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 1200
+         },
+         {
+          "tipo": "frijoles blancos",
+          "marca":"Del Campo",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 900
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Celorrio",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 1800
+         },
+         {
+          "tipo": "pasta de bocaditos",
+          "marca": "Vima",
+          "unidad": "ml",
+          "pesaje": 225,
+          "precio": 900
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Holland Park",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 1800
+
+         },
+         {
+          "tipo": "mayonesa",
+          "marca": "Rayan",
+          "unidad": "gr",
+          "pesaje": 440,
+          "precio": 1000
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Burhan",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 550
+         },
+         {
+          "tipo": "pasta dental",
+          "marca": "Coolwhite",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 700
+         },
+         {
+          "tipo": "pure de tomate",
+          "marca": "De La Huerta",
+          "unidad": "gr",
+          "pesaje": 530,
+          "precio": 500
+         },
+         {
+          "tipo": "cafe molido",
+          "marca": "Terra Da Gente",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 3000
+         },
+         {
+          "tipo": "cafe espresso",
+          "marca": "Beo Hive",
+          "unidad": "gr",
+          "pesaje": 250,
+          "precio": 1900
+         },
+         {
+          "tipo": "detergente liquido",
+          "marca": "Kaylon",
+          "unidad": "ml",
+          "pesaje": 735,
+          "precio": 1600
+         },
+         {
+          "tipo": "detergente liquido",
+          "marca": "Puffy",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 1000
+         },
+         {
+          "tipo": "champu",
+          "marca": "NT Argan",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 1200
+         },
+         {
+          "tipo": "jabon",
+          "marca": "Marwa",
+          "unidad": "gr",
+          "pesaje": 100,
+          "precio": 180
+         },
+         {
+          "tipo": "intima",
+          "marca": "My A+",
+          "unidad": "#",
+          "pesaje": 10,
+          "precio": 450
+         },
+         {
+          "tipo": "pasta dental",
+          "marca": "Colgate",
+          "unidad": "none",
+          "pesaje": "none",
+          "precio": 1800
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca": "La Excelencia",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 600
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Salti Tacos",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1200
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Salti Crackers",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1200
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca":"Unlaguer",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca":"Cristal",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 450
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca":"Max Booms Boom",
+          "unidad": "gr",
+          "pesaje": 42,
+          "precio": 140
+         },
+         {
+          "tipo": "malta de pomo",
+          "marca":"La Guajira",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 280
+         },
+         {
+          "tipo": "agua natural",
+          "marca":"Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 160
+         },
+         {
+          "tipo": "dulce(sorbetos)",
+          "marca":"Renata",
+          "unidad": "gr",
+          "pesaje": 115,
+          "precio": 350
+         }
+    ]
+}
