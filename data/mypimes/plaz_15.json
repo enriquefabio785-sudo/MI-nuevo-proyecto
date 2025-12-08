@@ -6,15 +6,15 @@
         {
           "tipo": "caja de cigarro",
           "marca": "Englishman",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 600
          },
          {
           "tipo": "caja de cigarro",
-          "marca": "H Upmann ",
-          "unidad": "none",
-          "pesaje": "none",
+          "marca": "H Upmann",
+          "unidad": null,
+          "pesaje": null,
           "precio": 550
         },
          {

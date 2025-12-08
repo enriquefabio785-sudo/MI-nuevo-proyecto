@@ -112,8 +112,8 @@
          {
           "tipo": "pasta dental",
           "marca": "Coolwhite",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 700
          },
          {
@@ -175,8 +175,8 @@
          {
           "tipo": "pasta dental",
           "marca": "Colgate",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 1800
          },
          {
@@ -217,9 +217,9 @@
          {
           "tipo": "refresco de lata",
           "marca":"Max Booms Boom",
-          "unidad": "gr",
-          "pesaje": 42,
-          "precio": 140
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
          },
          {
           "tipo": "malta de pomo",

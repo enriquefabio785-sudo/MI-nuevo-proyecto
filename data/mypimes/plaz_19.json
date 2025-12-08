@@ -105,8 +105,8 @@
          {
           "tipo": "pasta dental",
           "marca": "Colgate",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 1400
          },
          {
@@ -126,8 +126,8 @@
          {
           "tipo": "desodorante",
           "marca": "Speed Stick",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 2900
          },
          {
@@ -153,9 +153,9 @@
          },
          {
           "tipo": "carton de huevos",
-          "marca": "none",
-          "unidad": "none",
-          "pesaje": "none",
+          "marca": null,
+          "unidad": null,
+          "pesaje": null,
           "precio": 3200
          },
          {

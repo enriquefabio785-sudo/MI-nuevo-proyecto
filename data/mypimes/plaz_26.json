@@ -53,7 +53,7 @@
           "precio": 380
          },
          {
-          "tipo": "cerveza",
+          "tipo": "cerveza de lata",
           "marca": "1830",
           "unidad":"ml",
           "pesaje":330,
@@ -146,9 +146,9 @@
          },
          {
           "tipo": "carton de huevos",
-          "marca": "none",
-          "unidad": "none",
-          "pesaje": "none",
+          "marca": null,
+          "unidad": null,
+          "pesaje": null,
           "precio": 3300
          }
     ]

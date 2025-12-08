@@ -1,0 +1,246 @@
+{"ID":"030",
+ "municipio":"Plaza",
+ "coordenadas":"23.12942, -82.37817",
+ "productos":[
+        {
+          "tipo": "pasta de tomate",
+          "marca": "Mantias",
+          "unidad": "gr",
+          "pesaje": 680,
+          "precio": 1350
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Ada",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 460
+        },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Virshaan",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 460
+          
+        },    
+         {
+          "tipo": "ketchup",
+          "marca": "Kurtz",
+          "unidad": "gr",
+          "pesaje": 680,
+          "precio": 1200
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Vima",
+          "unidad": "gr",
+          "pesaje": 2500,
+          "precio": 3000
+         },
+         {
+          "tipo": "mayonesa",
+          "marca":"Kurtz",
+          "unidad": "gr",
+          "pesaje": 887,
+          "precio": 2400
+         },
+         {
+          "tipo": "mayonesa",
+          "marca":"Pramesa",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 1100
+         },
+         {
+          "tipo": "refresco de paquete",
+          "marca": "Zuko",
+          "unidad":"ml",
+          "pesaje":2000,
+          "precio": 120
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Comarrico",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 300
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Mallorca",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 330
+         },
+         {
+          "tipo": "espaguetis",
+          "marca": "Banetti",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "espaguetis",
+          "marca": "Rosso",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 350
+         },
+         {
+          "tipo": "avena",
+          "marca": "La Merced",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 650
+
+         },
+         {
+          "tipo": "sal",
+          "marca": "Eliges",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 600
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Mirante",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 750
+         },
+         {
+          "tipo": "frijoles negros",
+          "marca": "Del Campo",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 700
+         },
+         {
+          "tipo": "frijoles colorados",
+          "marca": "Del Campo",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 700
+         },
+         {
+          "tipo": "garbanzos",
+          "marca": "Del Campo",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 700
+         },
+         {
+          "tipo": "pan rallado",
+          "marca": "Onena",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 700
+         },
+         {
+         "tipo": "crema para cafe",
+          "marca": "Mc Daniels",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 1900
+         },
+         {
+          "tipo": "alcohol(vino tinto)",
+          "marca": "Adega do Conde",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1200
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Reserve 7",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1500
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Hello",
+          "unidad": "gr",
+          "pesaje": 62,
+          "precio": 180
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Salti Blcks",
+          "unidad": "gr",
+          "pesaje": 595,
+          "precio": 1100
+         },
+         {
+          "tipo": "refresco de pomo",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 1500,
+          "precio": 650
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Max Booms Boom",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 240
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Santa",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 240
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca": "Unlaguer",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 230
+         },
+         {
+          "tipo": "malta de pomo",
+          "marca":"La Guajira",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 280
+         },
+         {
+          "tipo": "cerveza de botella",
+          "marca":"Cristal",
+          "unidad": "ml",
+          "pesaje": 350,
+          "precio": 320
+         },
+         {
+          "tipo": "cafe molido",
+          "marca":"La LLave",
+          "unidad": "gr",
+          "pesaje": 284,
+          "precio": 2800
+         },
+         {
+          "tipo": "jugo de caja",
+          "marca":"Goliath",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 800
+         },
+         {
+          "tipo": "detergente liquido",
+          "marca":"Kapital",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 800
+         },
+         {
+          "tipo": "papel sanitario",
+          "marca":"La Excelencia",
+          "unidad": "#",
+          "pesaje": 4,
+          "precio": 600
+         }
+    ]
+}

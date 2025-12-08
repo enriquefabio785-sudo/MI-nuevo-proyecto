@@ -33,7 +33,7 @@
          },
          {
           "tipo": "pollo",
-          "marca": "none",
+          "marca": null,
           "unidad": "gr",
           "pesaje": 4500,
           "precio": 3800
@@ -48,8 +48,8 @@
          {
           "tipo": "dulce(galletas)",
           "marca": "Maria",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 400
          },
          {
@@ -140,29 +140,29 @@
          {
           "tipo": "chicle",
           "marca": "Doublemint",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 50
          },
          {
           "tipo": "caja de cigarros",
           "marca": "Englishman",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 500
          },
          {
           "tipo": "pasta dental",
           "marca": "Deemah",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 500
          },
          {
           "tipo": "maquina de afeitar",
-          "marca": "none",
-          "unidad": "none",
-          "pesaje": "none",
+          "marca": null,
+          "unidad": null,
+          "pesaje": null,
           "precio": 100
          },
          {
@@ -224,8 +224,8 @@
          {
           "tipo": "cepillo dental",
           "marca":"Marwa",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 150
          },
          {
@@ -239,7 +239,7 @@
           "tipo": "intima",
           "marca":"Sueños Ultra",
           "unidad": "#",
-          "pesaje": "10",
+          "pesaje": 10,
           "precio": 450
          },
          {
@@ -281,9 +281,9 @@
          },
          {
           "tipo": "frazada de piso",
-          "marca":"none",
-          "unidad": "none",
-          "pesaje": "none",
+          "marca":null,
+          "unidad": null,
+          "pesaje": null,
           "precio": 300
          },
          {

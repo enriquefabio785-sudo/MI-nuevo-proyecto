@@ -19,8 +19,8 @@
          {
           "tipo": "esponja",
           "marca": "Zaas!",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 70
           
         },    
@@ -103,7 +103,7 @@
           "precio": 580
          },
          {
-          "tipo": "garvanzos",
+          "tipo": "garbanzos",
           "marca": "La Merced",
           "unidad": "gr",
           "pesaje": 500,

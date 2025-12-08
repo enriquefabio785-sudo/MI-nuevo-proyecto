@@ -84,7 +84,7 @@
           "tipo": "cerveza de lata",
           "marca": "Cristal",
           "unidad": "ml",
-          "pesaje": 35,
+          "pesaje": 355,
           "precio": 400
          },
          {
@@ -110,16 +110,16 @@
          },
          {
           "tipo": "cepillo de dientes",
-          "marca": "none",
-          "unidad": "none",
-          "pesaje": "none",
+          "marca": null,
+          "unidad": null,
+          "pesaje": null,
           "precio": 200
          },
          {
           "tipo": "cepillo de dientes",
           "marca": "Colgate",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 1620
          },
          {

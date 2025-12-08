@@ -237,9 +237,9 @@
          },
          {
           "tipo": "frazada de piso",
-          "marca":"none",
-          "unidad": "none",
-          "pesaje": "none",
+          "marca":null,
+          "unidad": null,
+          "pesaje": null,
           "precio": 300
          },
          {
@@ -252,8 +252,8 @@
          {
           "tipo": "desodorante",
           "marca":"Miya",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 580
          },
          {

@@ -83,22 +83,22 @@
     {
       "tipo": "caja de cigarros",
       "marca": "H Upmann",
-      "unidad": "none",
-      "pesaje": "none",
+      "unidad": null,
+      "pesaje": null,
       "precio": 600
     },
     {
       "tipo": "caja de cigarros",
       "marca": "Popular",
-      "unidad": "none",
-      "pesaje": "none",
+      "unidad": null,
+      "pesaje": null,
       "precio": 700
     },
     {
       "tipo": "caja de cigarros",
       "marca": "Englishman",
-      "unidad": "none",
-      "pesaje": "none",
+      "unidad": null,
+      "pesaje": null,
       "precio": 650
     },
     {

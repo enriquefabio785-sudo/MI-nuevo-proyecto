@@ -18,9 +18,9 @@
         },
          {
           "tipo": "frazada de piso",
-          "marca": "none",
-          "unidad": "none",
-          "pesaje": "none",
+          "marca": null,
+          "unidad": null,
+          "pesaje": null,
           "precio": 300
           
         },    
@@ -46,7 +46,7 @@
           "precio": 1000
          },
          {
-          "tipo": "verduras mixtas",
+          "tipo": "ensalada de verduras",
           "marca": "Sabrosisimo",
           "unidad": "gr",
           "pesaje": 425,
@@ -75,9 +75,9 @@
          },
          {
           "tipo": "carton de huevos",
-          "marca": "none",
-          "unidad": "none",
-          "pesaje": "none",
+          "marca": null,
+          "unidad": null,
+          "pesaje": null,
           "precio": 3200
          },
          {

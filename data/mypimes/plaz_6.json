@@ -105,15 +105,15 @@
          {
           "tipo": "pasta dental",
           "marca": "Colgate",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 1050
          },
          {
           "tipo": "pasta dental",
           "marca": "Coolwhite",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 700
          },
          {

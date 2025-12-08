@@ -5,15 +5,15 @@
         {
           "tipo": "caja de cigarros",
           "marca": "Englishman",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 600
          },
          {
           "tipo": "pasta dental",
           "marca": "Deemah",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 500
         },
          {

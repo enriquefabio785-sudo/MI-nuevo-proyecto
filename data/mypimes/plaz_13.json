@@ -189,8 +189,8 @@
          {
           "tipo": "pasta dental",
           "marca": "Colgate",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 1800
          },
          {
@@ -243,7 +243,7 @@
           "precio": 900
          },
          {
-          "tipo": "crema de cafe",
+          "tipo": "crema para cafe",
           "marca":"Mc Daniels",
           "unidad": "gr",
           "pesaje": 454,

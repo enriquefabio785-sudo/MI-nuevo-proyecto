@@ -90,8 +90,8 @@
          {
           "tipo": "pasta dental",
           "marca": "Deemah",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 400
 
          },
@@ -159,7 +159,7 @@
           "precio": 990
          },
          {
-          "tipo": "papel higienico",
+          "tipo": "papel sanitario",
           "marca": "Bingo",
           "unidad": "#",
           "pesaje": 1,

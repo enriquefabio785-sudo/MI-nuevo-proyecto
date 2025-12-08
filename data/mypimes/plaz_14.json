@@ -18,7 +18,7 @@
         },
          {
           "tipo": "energizante",
-          "marca": "Go +",
+          "marca": "Go+",
           "unidad": "ml",
           "pesaje": 250,
           "precio": 250
@@ -90,8 +90,8 @@
          {
           "tipo": "maquina de afeitar",
           "marca": "Max",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 180
 
          },
@@ -152,7 +152,7 @@
           "precio": 700
          },
          {
-          "tipo": "macedonia de verduras",
+          "tipo": "ensalada de verduras",
           "marca": "Celorrio",
           "unidad": "gr",
           "pesaje": 390,

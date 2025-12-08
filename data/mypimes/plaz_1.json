@@ -55,8 +55,8 @@
     {
       "tipo": "esponja",
       "marca": "Zaas!",
-      "unidad": "none",
-      "pesaje": "none",
+      "unidad": null,
+      "pesaje": null,
       "precio": 100
     },
     {
@@ -75,9 +75,9 @@
     },
     {
       "tipo": "fosforera",
-      "marca": "none",
-      "unidad": "none",
-      "pesaje": "none",
+      "marca": null,
+      "unidad": null,
+      "pesaje": null,
       "precio": 100
     },
     {
@@ -201,7 +201,7 @@
     },
     {
       "tipo": "picadillo de pollo",
-      "marca": "none",
+      "marca": null,
       "unidad": "gr",
       "pesaje": 450,
       "precio": 360

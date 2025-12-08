@@ -1,0 +1,260 @@
+{"ID":"029",
+ "municipio":"Plaza",
+ "coordenadas":"23.1381, -82.3579",
+ "productos":[
+        {
+          "tipo": "chicharos verdes",
+          "marca":"Del Campo",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 700
+         },
+         {
+          "tipo": "frijoles blancos",
+          "marca": "La Merced",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 900
+        },
+         {
+          "tipo": "alubias",
+          "marca": "La Merced",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 900
+          
+        },    
+         {
+          "tipo": "frijoles negros",
+          "marca": "Rio Imperial",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 1700
+         },
+         {
+          "tipo": "garbanzos",
+          "marca": "Sytari",
+          "unidad": "gr",
+          "pesaje": 400,
+          "precio": 650
+         },
+         {
+          "tipo": "vinagre",
+          "marca": "Deleite",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 600
+         },
+         {
+          "tipo": "vino seco",
+          "marca": "El Mundo",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 750
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Virshaan",
+          "unidad":"gr",
+          "pesaje":400,
+          "precio": 500
+         },
+         {
+          "tipo": "pasta de tomate",
+          "marca": "Mantias",
+          "unidad": "gr",
+          "pesaje": 680,
+          "precio": 2200
+         },
+         {
+          "tipo": "aceite",
+          "marca":"Guillen",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 5000
+         },
+         {
+          "tipo": "aceite",
+          "marca": "Dolcezza",
+          "unidad": "ml",
+          "pesaje": 150,
+          "precio": 1500
+         },
+         {
+          "tipo": "azucar blanca",
+          "marca": "Energy",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 900
+         },
+         {
+          "tipo": "sal",
+          "marca": "Eliges",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 800
+
+         },
+         {
+          "tipo": "leche en polvo",
+          "marca": "Do Bon",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 2500
+         },
+         {
+          "tipo": "leche en polvo",
+          "marca": "Itambe",
+          "unidad": "gr",
+          "pesaje": 200,
+          "precio": 500
+         },
+         {
+          "tipo": "pasta dental",
+          "marca": "Colgate",
+          "unidad": null,
+          "pesaje": null,
+          "precio": 800
+         },
+         {
+          "tipo": "coditos",
+          "marca": "Banetti",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 550
+         },
+         {
+          "tipo": "arroz",
+          "marca": "Rainha",
+          "unidad": "gr",
+          "pesaje": 1000,
+          "precio": 800
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Patrick",
+          "unidad": "gr",
+          "pesaje": 500,
+          "precio": 1800
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Crokantinas",
+          "unidad": "gr",
+          "pesaje": 577,
+          "precio": 1100
+         },
+         {
+          "tipo": "dulce(galletas)",
+          "marca": "Junior",
+          "unidad": "gr",
+          "pesaje": 320,
+          "precio": 1000
+         },
+         {
+          "tipo": "galleta salada",
+          "marca": "Soda",
+          "unidad": "gr",
+          "pesaje": 160,
+          "precio": 900
+         },
+         {
+          "tipo": "refresco de lata",
+          "marca": "Santa",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca": "Cristal",
+          "unidad": "ml",
+          "pesaje": 355,
+          "precio": 300
+         },
+         {
+          "tipo": "agua natural",
+          "marca": "Ciego Montero",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio":250
+         },
+         {
+          "tipo": "cerveza de lata",
+          "marca":"Unlaguer",
+          "unidad": "ml",
+          "pesaje": 330,
+          "precio": 250
+         },
+         {
+          "tipo": "crema para cafe",
+          "marca": "Mc Daniels",
+          "unidad": "gr",
+          "pesaje": 454,
+          "precio": 2500
+         },
+         {
+          "tipo": "cafe molido",
+          "marca": "Cubita",
+          "unidad": "gr",
+          "pesaje": 230,
+          "precio": 2500
+         },
+         {
+          "tipo": "cafe molido",
+          "marca":"La LLave",
+          "unidad": "gr",
+          "pesaje": 284,
+          "precio": 3500
+         },
+         {
+          "tipo": "alcohol(ron)",
+          "marca":"Havana Club",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 2800
+         },
+         {
+          "tipo": "mayonesa",
+          "marca":"Celorrio",
+          "unidad": "ml",
+          "pesaje": 500,
+          "precio": 1800
+         },
+         {
+          "tipo": "mayonesa",
+          "marca":"Kurtz",
+          "unidad": "gr",
+          "pesaje": 887,
+          "precio": 2800
+         },
+         {
+          "tipo": "atun en aceite",
+          "marca":"Docanned Star",
+          "unidad": "gr",
+          "pesaje": 140,
+          "precio": 600
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca": "Reserve 7",
+          "unidad": "ml",
+          "pesaje": 750,
+          "precio": 1600
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca":"Chanceler",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 1500
+         },
+         {
+          "tipo": "alcohol(whisky)",
+          "marca":"Red Label",
+          "unidad": "ml",
+          "pesaje": 1000,
+          "precio": 9000
+         }
+    ]
+}

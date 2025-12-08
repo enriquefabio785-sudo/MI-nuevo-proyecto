@@ -81,7 +81,7 @@
           "precio": 600
          },
          {
-          "tipo": "pomo de refresco",
+          "tipo": "refresco de pomo",
           "marca": "Ciego Montero",
           "unidad": "ml",
           "pesaje": 1500,
@@ -118,16 +118,16 @@
          },
          {
           "tipo": "barra de guayaba",
-          "marca": "none",
-          "unidad": "none",
-          "pesaje": "none",
+          "marca": null,
+          "unidad": null,
+          "pesaje": null,
           "precio": 350
          },
          {
           "tipo": "pasta dental",
           "marca": "Colgate",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 1200
          },
          {
@@ -230,30 +230,30 @@
          },
          {
           "tipo": "carton de huevos",
-          "marca":"none",
-          "unidad": "none",
-          "pesaje": "none",
+          "marca":null,
+          "unidad": null,
+          "pesaje": null,
           "precio": 3300
          },
          {
           "tipo": "caja de cigarros",
           "marca":"H Upmann",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 650
          },
          {
           "tipo": "caja de cigarros",
           "marca":"Popular Rojo",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 650
          },
          {
           "tipo": "caja de cigarros",
           "marca":"Englishman",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 600
          },
          {
@@ -282,7 +282,7 @@
           "marca":"Del Campo",
           "unidad": "gr",
           "pesaje": 500,
-          "precio": 7500
+          "precio": 750
          },
          {
           "tipo": "coditos",

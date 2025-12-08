@@ -55,8 +55,8 @@
          {
           "tipo": "caja de cigarros",
           "marca": "H Upmann",
-          "unidad":"none",
-          "pesaje":"none",
+          "unidad":null,
+          "pesaje":null,
           "precio": 400
          },
          {

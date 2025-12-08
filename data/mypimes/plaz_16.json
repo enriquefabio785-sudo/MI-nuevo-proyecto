@@ -4,24 +4,24 @@
  "coordenadas":"23.11654, -82.38638",
  "productos":[
         {
-          "tipo": "caja de cigarro",
+          "tipo": "caja de cigarros",
           "marca": "Englishman",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 1100
          },
          {
-          "tipo": "caja de cigarro",
-          "marca": "H Upmann ",
-          "unidad": "none",
-          "pesaje": "none",
+          "tipo": "caja de cigarros",
+          "marca": "H Upmann",
+          "unidad": null,
+          "pesaje": null,
           "precio": 750
         },
          {
-          "tipo": "caja de cigarro",
+          "tipo": "caja de cigarros",
           "marca": "Popular Rojo",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 750
           
         },    
@@ -167,17 +167,10 @@
           "precio": 500
          },
          {
-          "tipo": "intima",
-          "marca": "My A+",
-          "unidad": "#",
-          "pesaje": 10,
-          "precio": 500
-         },
-         {
-          "tipo": "pasta dental ",
+          "tipo": "pasta dental",
           "marca": "Colgate",
-          "unidad": "none",
-          "pesaje": "none",
+          "unidad": null,
+          "pesaje": null,
           "precio": 1100
          },
          {

@@ -3,7 +3,7 @@
  "coordenadas":"23.11575, -82.38536",
  "productos":[
         {
-          "tipo": "jugo en caja",
+          "tipo": "jugo de caja",
           "marca": "Sima",
           "unidad": "ml",
           "pesaje": 200,
@@ -97,9 +97,9 @@
          },
          {
           "tipo": "carton de huevos",
-          "marca": "none",
-          "unidad": "none",
-          "pesaje": "none",
+          "marca": null,
+          "unidad": null,
+          "pesaje": null,
           "precio": 3200
          },
          {
@@ -140,7 +140,7 @@
          {
           "tipo": "garbanzos",
           "marca": "De Cancio",
-          "unidad": "ml",
+          "unidad": "gr",
           "pesaje": 540,
           "precio": 650
          },
