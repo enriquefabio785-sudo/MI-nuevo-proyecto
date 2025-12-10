@@ -1,5 +1,8 @@
 import json
+import folium 
 lista_de_productos=[]
+diccionario={}
+contador=1
 lista=['plaz_1.json', 'plaz_2.json', 'plaz_3.json', 'plaz_4.json', 'plaz_5.json', 
  'plaz_6.json', 'plaz_7.json', 'plaz_8.json', 'plaz_9.json', 'plaz_10.json',
  'plaz_11.json', 'plaz_12.json', 'plaz_13.json', 'plaz_14.json', 'plaz_15.json',
@@ -10,6 +13,11 @@ for i in lista:
      with open(f"E:/universidad/proyecto CD NO TOCAR/data/mypimes/{i}","r",encoding="utf-8") as f:
          datos=json.load(f)
      lista_de_productos.extend(datos["productos"])
+for i in lista:
+     with open(f"E:/universidad/proyecto CD NO TOCAR/data/mypimes/{i}","r",encoding="utf-8") as f:
+         datos=json.load(f)
+     diccionario[contador]=datos["productos"]
+     contador+=1
 
 def busqueda(tipo=None,marca=None,unidad=None,pesaje=None,precio=None):
     buscados=[]
@@ -50,6 +58,7 @@ def mediana(lista):
   if len(lista)%2!=0:
       return lista[len(lista)//2]
   return (lista[len(lista)//2]+lista[len(lista)//2-1])/2
+
 
 
     
