@@ -8,7 +8,6 @@ with open("E:/universidad/proyecto CD NO TOCAR/data/salarios medios.json","r",en
 productos_basicos = ["cafe 284g", "arroz 1kg","frijoles negros 500g","frijoles colorados 500g","azucar blanca 1kg"]
 cantidad = [bl.cantidad_por_salario("cafe"),bl.cantidad_por_salario("arroz"),bl.cantidad_por_salario("frijoles negros"),bl.cantidad_por_salario("frijoles colorados"),bl.cantidad_por_salario("azucar blanca")]
 
-# Crear gráfico
 plt.figure(figsize=(8, 5))
 plt.plot(productos_basicos, cantidad, marker='o', color='red', linewidth=2)
 plt.title('Analisis de obtencion de la canasta basica')
