@@ -1,4 +1,4 @@
-def mapa(x=0):
+def mapa():
     import folium
     mapa = folium.Map(location=[23.1363, -82.3585], zoom_start=14 )
     folium.Marker(location=[23.12406, -82.38129],popup="mypime 1",tooltip="Click aquí").add_to(mapa)
@@ -39,7 +39,7 @@ def mapa(x=0):
   
   
   
-def mapa_simple(x=0):
+def mapa_simple():
     import folium
     
     mapa = folium.Map(location=[23.1363, -82.3585], zoom_start=14)

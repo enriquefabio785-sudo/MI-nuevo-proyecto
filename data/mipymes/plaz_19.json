@@ -74,10 +74,10 @@
           "precio": 320
          },
          {
-          "tipo": "jugo de fruta",
+          "tipo": "jugo de caja",
           "marca": "Goliath",
           "unidad": "ml",
-          "pesaje": 946,
+          "pesaje": 1000,
           "precio": 900
          },
          {
