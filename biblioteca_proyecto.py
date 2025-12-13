@@ -21,6 +21,8 @@ for i in lista:
      contador+=1
 with open("E:/universidad/proyecto CD NO TOCAR/data/salarios medios.json","r",encoding="utf-8") as f:
          salarios_medios=json.load(f)["salario por provincia"]
+with open("E:/universidad/proyecto CD NO TOCAR/data/precio_dolar.json","r",encoding="utf-8") as f:
+         precio_actual_del_dolar_Cuba=json.load(f)["datos"][-1]["precio"]
 #funcion busqueda que devuelve una lista con los productos que coinciden ej:sal y galleta salada son coincidentes
 def busqueda_coincidencias(tipo=None,marca=None,unidad=None,pesaje=None,precio=None):
     buscados=[]
@@ -152,8 +154,13 @@ def mediana_producto(tipo=None,marca=None,unidad=None,pesaje=None,precio=None):
   precios=busqueda_exacta_precios(tipo,marca,unidad,pesaje,precio)
   return mediana(precios)
 
+#funcion que devuelve la mediana de precio de un producto en dolares
+def mediana_dolar(tipo=None,marca=None,unidad=None,pesaje=None,precio=None):
+  precios=busqueda_exacta_precios(tipo,marca,unidad,pesaje,precio)
+  return round(mediana(precios)/precio_actual_del_dolar_Cuba,2)
 
-print(disponibilidad_exacta("espaguetis"))
+
+
 
 
 

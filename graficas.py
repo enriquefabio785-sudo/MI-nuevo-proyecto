@@ -1,8 +1,11 @@
 import matplotlib.pyplot as plt
 import json
 import biblioteca_proyecto as bl
+import numpy as np
 with open("E:/universidad/proyecto CD NO TOCAR/data/salarios medios.json","r",encoding="utf-8") as f:
          salarios_medios=json.load(f)["salario por provincia"]
+with open("E:/universidad/proyecto CD NO TOCAR/data/costo de productos basicos en EEUU.json","r",encoding="utf-8") as f:
+         paises_con_precios=json.load(f)["precios de los paises con mas importaciones en Cuba"]
 
 #---------------------------------------------------------------------------Primer grafico---------------------------------------------------------------------------------------------
 def primer_grafico():
@@ -26,11 +29,10 @@ def segundo_grafico():
                  bl.mediana_producto("sal",None,None,1000),bl.mediana_producto("azucar blanca",None,None,1000),bl.mediana_producto("refresco de pomo",None,None,1500),
                  bl.mediana_producto("espaguetis",None,None,500),bl.mediana_producto("coditos",None,None,500),bl.mediana_producto("pasta de tomate",None,None,400)]
       plt.figure(figsize=(20,8), dpi=100,facecolor="#4c9297")
-      plt.bar(productos_basicos,cantidad,color=["#ff3a3a","#ffa33a","#caff3a","#93ff3a",
-                                                "#3affb3","#3ae8ff","#3a89ff","#b73aff","#ff3aad"])
-      plt.axhline(y=salarios_medios["La Habana"],color="black",linestyle="--",linewidth=3, label="salario medio(La Habana)")
+      plt.bar(productos_basicos,cantidad,color=["#0d0a99","#0d0a99","#0d0a99","#0d0a99",
+                                                "#0d0a99","#0d0a99","#0d0a99","#0d0a99","#0d0a99"])
       plt.xlabel("Productos mas populares en las mipymes",fontsize=20,labelpad=15)
-      plt.ylabel("Precio medio por producto",fontsize=20)
+      plt.ylabel("Precio medio por producto(CUP)",fontsize=20)
       plt.legend()
       return plt.show()
 
@@ -57,12 +59,43 @@ def tercer_grafico():
       plt.figure(figsize=(20,8), dpi=100,facecolor="#19d0dd")
       plt.bar(canastas,precio,color=["#FF6B6B","#FFD93D","#6BCB77"])
       plt.axhline(y=salarios_medios["La Habana"],color="black",linestyle="--",linewidth=3, label="salario medio(La Habana)")
-      plt.xlabel("Canastas establecidas",fontsize=20,labelpad=15)
-      plt.ylabel("Precio de cada canasta",fontsize=20)
+      plt.xlabel("Canastas establecidas para una persona",fontsize=20,labelpad=15)
+      plt.ylabel("Precio de cada canasta(CUP)",fontsize=20)
       plt.legend()
       return plt.show()
+#---------------------------------------------------------------------------Cuarto grafico---------------------------------------------------------------------------------------------
+def cuarto_grafico():
+      productos=["harina 1kg","arroz 1kg","azucar 1kg","sal 1kg", "leche 1L","medio carton de huevos", "aceite 1L"]
+      precios_Mexico=[paises_con_precios["Mexico"]["harina 1kg"],paises_con_precios["Mexico"]["arroz 1kg"],paises_con_precios["Mexico"]["azucar 1kg"],
+                      paises_con_precios["Mexico"]["sal 1kg"],paises_con_precios["Mexico"]["leche 1L"],paises_con_precios["Mexico"]["medio carton de huevos"],
+                      paises_con_precios["Mexico"]["aceite 1L"]]
+      precios_España=[paises_con_precios["España"]["harina 1kg"],paises_con_precios["España"]["arroz 1kg"],paises_con_precios["España"]["azucar 1kg"],
+                      paises_con_precios["España"]["sal 1kg"],paises_con_precios["España"]["leche 1L"],paises_con_precios["España"]["medio carton de huevos"],
+                      paises_con_precios["España"]["aceite 1L"]]
+      precios_Brasil=[paises_con_precios["Brasil"]["harina 1kg"],paises_con_precios["Brasil"]["arroz 1kg"],paises_con_precios["Brasil"]["azucar 1kg"],
+                      paises_con_precios["Brasil"]["sal 1kg"],paises_con_precios["Brasil"]["leche 1L"],paises_con_precios["Brasil"]["medio carton de huevos"],
+                      paises_con_precios["Brasil"]["aceite 1L"]]
+      precios_China=[paises_con_precios["China"]["harina 1kg"],paises_con_precios["China"]["arroz 1kg"],paises_con_precios["China"]["azucar 1kg"],
+                     paises_con_precios["China"]["sal 1kg"],paises_con_precios["China"]["leche 1L"],paises_con_precios["China"]["medio carton de huevos"],
+                     paises_con_precios["China"]["aceite 1L"]]
+      precios_Cuba=[bl.mediana_dolar("harina",None,None,1000),bl.mediana_dolar("arroz",None,None,1000),bl.mediana_dolar("azucar blanca",None,None,1000),bl.mediana_dolar("sal",None,None,1000),
+                    bl.mediana_dolar("leche liquida",None,None,1000),bl.mediana_dolar("carton de huevos")/2,bl.mediana_dolar("aceite",None,None,1000)]
+      n_productos = len(productos)
+      posiciones = np.arange(n_productos) 
+      ancho_barra = 0.15 
+      plt.figure(figsize=(20,8), dpi=100,facecolor="#19d0dd")
+      plt.barh(posiciones - 2*ancho_barra, precios_Mexico, ancho_barra, color="#6BFF90", label="México")
+      plt.barh(posiciones - 1*ancho_barra, precios_España, ancho_barra, color="#CA1717", label="España")
+      plt.barh(posiciones + 0*ancho_barra, precios_Brasil, ancho_barra, color="#2158AC", label="Brasil")
+      plt.barh(posiciones + 1*ancho_barra, precios_China, ancho_barra, color="#AEB11C", label="China")
+      plt.barh(posiciones + 2*ancho_barra, precios_Cuba, ancho_barra, color="#00D9FF", label="Cuba")
+      plt.xlabel("Precios de los productos(USD)",fontsize=20,labelpad=15)
+      plt.yticks( posiciones,productos, fontsize=14)
+      plt.ylabel("Productos",fontsize=20)
+      plt.legend(fontsize=14)
+      return plt.show()
 
-print(tercer_grafico())
+print(cuarto_grafico())
 
 
 

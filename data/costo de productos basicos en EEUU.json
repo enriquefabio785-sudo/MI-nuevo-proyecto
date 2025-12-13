@@ -1,0 +1,49 @@
+{
+    "fuentes":["https://www.expatistan.com/es/costo-de-vida/pais/estados-unidos",
+              "https://oncubanews.com/opinion/columnas/horizontes/quienes-son-los-principales-socios-economicos-de-cuba/"],
+    "precios de los paises con mas importaciones en Cuba":{"Mexico":{"harina 1kg":1.53,
+                                                                      "arroz 1kg":1.83,
+                                                                      "azucar 1kg":1.85,
+                                                                      "sal 1kg":1.28,
+                                                                      "leche 1L":2.14,
+                                                                      "medio carton de huevos":2.94,
+                                                                      "aceite 1L":2.50},
+                                                            "España":{"harina 1kg":1.76,
+                                                                      "arroz 1kg":1.64,
+                                                                      "azucar 1kg":1.29,
+                                                                      "sal 1kg":0.70,
+                                                                      "leche 1L":1.27,
+                                                                      "medio carton de huevos":3.29,
+                                                                      "aceite 1L":4.34},
+                                                             "Brasil":{"harina 1kg":1.03,
+                                                                       "arroz 1kg":1.57,
+                                                                       "azucar 1kg":0.93,
+                                                                       "sal 1kg":0.56,
+                                                                       "leche 1L":1.44,
+                                                                       "medio carton de huevos":2.77,
+                                                                       "aceite 1L":2.78},
+                                                             "China":{"harina 1kg":1.96,
+                                                                      "arroz 1kg":1.16,
+                                                                      "azucar 1kg":2.52,
+                                                                      "sal 1kg":1.42,
+                                                                      "leche 1L":1.99,
+                                                                      "medio carton de huevos":2.21,
+                                                                      "aceite 1L":2.52}
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
