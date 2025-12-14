@@ -38,30 +38,31 @@ def segundo_grafico():
 
 
 #---------------------------------------------------------------------------Tercer grafico---------------------------------------------------------------------------------------------
-canasta_basica=["arroz 4kg","frijoles 1.5kg" ,"azucar 1kg","aceite 1L","sal 0.5kg","pasta de tomate 400gr","espaguetis 500gr","detergente en polvo 500gr","jabon(2)","pasta dental(1)"]
-canasta_media=["arroz 5kg","frijoles 3kg" ,"azucar 2kg","aceite 1L","sal 0.5kg","pasta de tomate 400gr","espaguetis 1kg","detergente en polvo 1kg","jabon(2)","pasta dental(1)",
-               "leche en polvo 1kg","harina 1kg","cafe molido 284gr","papel sanitario(4)"]
-canasta_buena=["arroz 5kg","frijoles 3kg" ,"azucar 2kg","aceite 1L","sal 0.5kg","pasta de tomate 400gr","espaguetis 1kg","detergente en polvo 1kg","jabon(2)","pasta dental(1)",
+canasta_basica=["arroz 5kg","frijoles 1.5kg" ,"azucar 1kg","aceite 1L","sal 0.5kg","pasta de tomate 400gr","espaguetis 1kg","detergente en polvo 500gr","jabon(2)","pasta dental(1)","10 huevos"]
+canasta_media=["arroz 6kg","frijoles 3kg" ,"azucar 2kg","aceite 1L","sal 0.5kg","pasta de tomate 400gr","espaguetis 1kg","detergente en polvo 1kg","jabon(2)","pasta dental(1)",
+               "leche en polvo 1kg","harina 1kg","cafe molido 284gr","papel sanitario(4)","20 huevos"]
+canasta_buena=["arroz 7kg","frijoles 3kg" ,"azucar 2kg","aceite 1L","sal 0.5kg","pasta de tomate 400gr","espaguetis 1kg","detergente en polvo 1kg","jabon(2)","pasta dental(1)",
                "leche en polvo 1kg","carton de huevos(1)","cafe molido 250-284gr","papel sanitario(4)","champu(1)"]
 def tercer_grafico():
       canastas = ["canasta basica","canasta_media","canasta_buena"]
-      precio= [bl.mediana_producto("arroz",None,None,1000)*4+bl.mediana_producto("frijoles negros",None,None,1000)*1.5+bl.mediana_producto("azucar blanca",None,None,1000)+
+      precio= [bl.mediana_producto("arroz",None,None,1000)*5+bl.mediana_producto("frijoles negros",None,None,1000)*1.5+bl.mediana_producto("azucar blanca",None,None,1000)+
                bl.mediana_producto("aceite",None,None,1000)+bl.mediana_producto("sal",None,None,1000)//2+bl.mediana_producto("pasta de tomate",None,None,400)+
-               bl.mediana_producto("espaguetis",None,None,500)+bl.mediana_producto("detergente en polvo",None,None,1000)//2+bl.mediana_producto("jabon")*2+
-               bl.mediana_producto("pasta dental"),bl.mediana_producto("arroz",None,None,1000)*5+bl.mediana_producto("frijoles negros",None,None,1000)*3+bl.mediana_producto("azucar blanca",None,None,1000)*2+
+               bl.mediana_producto("espaguetis",None,None,500)*2+bl.mediana_producto("detergente en polvo",None,None,1000)//2+bl.mediana_producto("jabon")*2+
+               bl.mediana_producto("pasta dental")+bl.mediana_producto("carton de huevos")/3,bl.mediana_producto("arroz",None,None,1000)*6+bl.mediana_producto("frijoles negros",None,None,1000)*3+bl.mediana_producto("azucar blanca",None,None,1000)*2+
                bl.mediana_producto("aceite",None,None,1000)+bl.mediana_producto("sal",None,None,1000)//2+bl.mediana_producto("pasta de tomate",None,None,400)+
                bl.mediana_producto("espaguetis",None,None,500)*2+bl.mediana_producto("detergente en polvo",None,None,1000)+bl.mediana_producto("jabon")*2+bl.mediana_producto("pasta dental")+
-               bl.mediana_producto("leche en polvo",None,None,1000)+bl.mediana_producto("papel sanitario",None,None,4),bl.mediana_producto("arroz",None,None,1000)*5+bl.mediana_producto("frijoles negros",None,None,1000)*3+bl.mediana_producto("azucar blanca",None,None,1000)*2+
+               bl.mediana_producto("leche en polvo",None,None,1000)+bl.mediana_producto("papel sanitario",None,None,4)+bl.mediana_producto("carton de huevos")/1.5,bl.mediana_producto("arroz",None,None,1000)*7+bl.mediana_producto("frijoles negros",None,None,1000)*3+bl.mediana_producto("azucar blanca",None,None,1000)*2+
                bl.mediana_producto("aceite",None,None,1000)+bl.mediana_producto("sal",None,None,1000)//2+bl.mediana_producto("pasta de tomate",None,None,400)+
                bl.mediana_producto("espaguetis",None,None,500)*2+bl.mediana_producto("detergente en polvo",None,None,1000)+bl.mediana_producto("jabon")*2+bl.mediana_producto("pasta dental")+
                bl.mediana_producto("leche en polvo",None,None,1000)+bl.mediana_producto("papel sanitario",None,None,4)+bl.mediana_producto("carton de huevos")+bl.mediana_producto("cafe molido",None,None,284)+
                bl.mediana_producto("champu")]
       plt.figure(figsize=(20,8), dpi=100,facecolor="#19d0dd")
+      plt.title("Precios de tipos de canasta en relacion al salario medio en La Habana",fontsize=20)
       plt.bar(canastas,precio,color=["#FF6B6B","#FFD93D","#6BCB77"])
       plt.axhline(y=salarios_medios["La Habana"],color="black",linestyle="--",linewidth=3, label="salario medio(La Habana)")
       plt.xlabel("Canastas establecidas para una persona",fontsize=20,labelpad=15)
       plt.ylabel("Precio de cada canasta(CUP)",fontsize=20)
-      plt.legend()
+      plt.legend(fontsize=14)
       return plt.show()
 #---------------------------------------------------------------------------Cuarto grafico---------------------------------------------------------------------------------------------
 def cuarto_grafico():
@@ -95,7 +96,7 @@ def cuarto_grafico():
       plt.legend(fontsize=14)
       return plt.show()
 
-print(cuarto_grafico())
+
 
 
 

@@ -159,6 +159,34 @@ def mediana_dolar(tipo=None,marca=None,unidad=None,pesaje=None,precio=None):
   precios=busqueda_exacta_precios(tipo,marca,unidad,pesaje,precio)
   return round(mediana(precios)/precio_actual_del_dolar_Cuba,2)
 
+#evidencia de como crear una lista con las mipymes ordenadas de menor a mayor con la cantidad de productos que ofrecen
+_=[]
+mipymes_ordenadas_por_cantidad_de_productos=[]
+contador=0
+for i in lista:
+     y=contador
+     with open(f"E:/universidad/proyecto CD NO TOCAR/data/mipymes/{i}","r",encoding="utf-8") as f:
+         datos=json.load(f)
+     _.append([datos["ID"]])
+     _[y].extend(datos["productos"])
+     contador+=1
+_.sort(key=len)
+for x in _:
+  mipymes_ordenadas_por_cantidad_de_productos.append(x[0])
+  
+#ya creada
+mipymes_ordenadas_por_cantidad_de_productos=['018', '012', '003', '007', '021', '022', '028', '026', '023', '024', 
+                                             '027', '009', '015', '011', '008', '017', '016', '001', '010', '019', 
+                                             '025', '030', '029', '013', '004', '006', '014', '020', '005', '002']
+
+
+
+
+
+
+  
+
+
 
 
 
