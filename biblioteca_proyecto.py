@@ -23,6 +23,8 @@ with open("E:/universidad/proyecto CD NO TOCAR/data/salarios medios.json","r",en
          salarios_medios=json.load(f)["salario por provincia"]
 with open("E:/universidad/proyecto CD NO TOCAR/data/precio_dolar.json","r",encoding="utf-8") as f:
          precio_actual_del_dolar_Cuba=json.load(f)["datos"][-1]["precio"]
+with open("E:/universidad/proyecto CD NO TOCAR/data/costo de productos basicos en EEUU.json","r",encoding="utf-8") as f:
+         paises_con_precios=json.load(f)["precios de los paises con mas importaciones en Cuba"]
 #funcion busqueda que devuelve una lista con los productos que coinciden ej:sal y galleta salada son coincidentes
 def busqueda_coincidencias(tipo=None,marca=None,unidad=None,pesaje=None,precio=None):
     buscados=[]
@@ -178,6 +180,24 @@ for x in _:
 mipymes_ordenadas_por_cantidad_de_productos=['018', '012', '003', '007', '021', '022', '028', '026', '023', '024', 
                                              '027', '009', '015', '011', '008', '017', '016', '001', '010', '019', 
                                              '025', '030', '029', '013', '004', '006', '014', '020', '005', '002']
+
+#porciento respecto al precio en Cuba
+def porciento(pais,producto):
+ if producto =="harina 1kg":
+   return round(paises_con_precios[pais][producto]/mediana_dolar("harina",None,None,1000)*100-100,1)
+ if producto =="arroz 1kg":
+   return round(paises_con_precios[pais][producto]/mediana_dolar("arroz",None,None,1000)*100-100,1)
+ if producto =="azucar 1kg":
+   return round(paises_con_precios[pais][producto]/mediana_dolar("azucar blanca",None,None,1000)*100-100,1)
+ if producto =="sal 1kg":
+   return round(paises_con_precios[pais][producto]/mediana_dolar("sal",None,None,1000)*100-100,1)
+ if producto =="leche 1L":
+   return round(paises_con_precios[pais][producto]/mediana_dolar("leche liquida",None,None,1000)*100-100,1)
+ if producto =="medio carton de huevos":
+   return round(paises_con_precios[pais][producto]/(mediana_dolar("carton de huevos")/2)*100-100,1)
+ if producto =="aceite 1L":
+   return round(paises_con_precios[pais][producto]/mediana_dolar("aceite",None,None,1000)*100-100,1)
+
 
 
 

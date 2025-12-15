@@ -29,8 +29,8 @@ def segundo_grafico():
                  bl.mediana_producto("sal",None,None,1000),bl.mediana_producto("azucar blanca",None,None,1000),bl.mediana_producto("refresco de pomo",None,None,1500),
                  bl.mediana_producto("espaguetis",None,None,500),bl.mediana_producto("coditos",None,None,500),bl.mediana_producto("pasta de tomate",None,None,400)]
       plt.figure(figsize=(20,8), dpi=100,facecolor="#4c9297")
-      plt.bar(productos_basicos,cantidad,color=["#0d0a99","#0d0a99","#0d0a99","#0d0a99",
-                                                "#0d0a99","#0d0a99","#0d0a99","#0d0a99","#0d0a99"])
+      plt.bar(productos_basicos,cantidad,color="#0d0a99")
+      plt.title("Precios de productos populares en las mipymes",fontsize=20)
       plt.xlabel("Productos mas populares en las mipymes",fontsize=20,labelpad=15)
       plt.ylabel("Precio medio por producto(CUP)",fontsize=20)
       plt.legend()
@@ -90,13 +90,32 @@ def cuarto_grafico():
       plt.barh(posiciones + 0*ancho_barra, precios_Brasil, ancho_barra, color="#2158AC", label="Brasil")
       plt.barh(posiciones + 1*ancho_barra, precios_China, ancho_barra, color="#AEB11C", label="China")
       plt.barh(posiciones + 2*ancho_barra, precios_Cuba, ancho_barra, color="#00D9FF", label="Cuba")
+      plt.title("Precios de productos basicos(USD) en Cuba y sus mayores importadores",fontsize=20)
       plt.xlabel("Precios de los productos(USD)",fontsize=20,labelpad=15)
       plt.yticks( posiciones,productos, fontsize=14)
       plt.ylabel("Productos",fontsize=20)
       plt.legend(fontsize=14)
       return plt.show()
+#---------------------------------------------------------------------------Quinto grafico---------------------------------------------------------------------------------------------
+def quinto_grafico():
+      productos=["harina 1kg","arroz 1kg","azucar 1kg","sal 1kg", "leche 1L","medio carton de huevos", "aceite 1L"]
+      precios_Cuba=[bl.mediana_dolar("harina",None,None,1000),bl.mediana_dolar("arroz",None,None,1000),bl.mediana_dolar("azucar blanca",None,None,1000),bl.mediana_dolar("sal",None,None,1000),
+                    bl.mediana_dolar("leche liquida",None,None,1000),bl.mediana_dolar("carton de huevos")/2,bl.mediana_dolar("aceite",None,None,1000)]
+      porciento_Mexico=[f"{bl.porciento("Mexico","harina 1kg")}%",f"{bl.porciento("Mexico","arroz 1kg")}%",f"{bl.porciento("Mexico","azucar 1kg")}%",f"{bl.porciento("Mexico","sal 1kg")}%",
+                        f"{bl.porciento("Mexico","leche 1L")}&",f"{bl.porciento("Mexico","medio carton de huevos")}%",f"{bl.porciento("Mexico","aceite 1L")}%"]
+      precios_Mexico=[paises_con_precios["Mexico"]["harina 1kg"],paises_con_precios["Mexico"]["arroz 1kg"],paises_con_precios["Mexico"]["azucar 1kg"],
+                      paises_con_precios["Mexico"]["sal 1kg"],paises_con_precios["Mexico"]["leche 1L"],paises_con_precios["Mexico"]["medio carton de huevos"],
+                      paises_con_precios["Mexico"]["aceite 1L"]]
+      plt.figure(figsize=(20,8), dpi=100,facecolor="#19d0dd")
+      plt.plot(productos,precios_Cuba,color="#00D9FF",label="Cuba",marker="o",linestyle="none")
+      plt.bar(porciento_Mexico,precios_Mexico,color="#6BFF90",label="Mexico")
+      plt.title("Precios de los productos basicos de los importadores en relacion a Cuba",fontsize=20)
+      plt.xlabel("Relacion de los productos de los importadores respecto a Cuba",fontsize=20,labelpad=15)
+      plt.ylabel("Precios(USD)",fontsize=20)
+      plt.legend(fontsize=14)
+      return plt.show()
 
-
+print(quinto_grafico())
 
 
 
