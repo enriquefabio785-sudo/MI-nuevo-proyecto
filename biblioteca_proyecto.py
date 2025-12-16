@@ -19,10 +19,13 @@ for i in lista:
          datos=json.load(f)
      diccionario[contador]=datos["productos"]
      contador+=1
+#creando la variable salarios medios que es un diccionario con las provincias y sus salarios medios como valores
 with open("E:/universidad/proyecto CD NO TOCAR/data/salarios medios.json","r",encoding="utf-8") as f:
          salarios_medios=json.load(f)["salario por provincia"]
+#creando la variable precio actual del dolar que toma el ultimo valor del dolar por el Toque
 with open("E:/universidad/proyecto CD NO TOCAR/data/precio_dolar.json","r",encoding="utf-8") as f:
          precio_actual_del_dolar_Cuba=json.load(f)["datos"][-1]["precio"]
+#creando la variable paises con precios que es un diccionario con los mayores importadores de Cuba que tiene como valores otro diccionario que tiene los productos basicos y sus precios
 with open("E:/universidad/proyecto CD NO TOCAR/data/costo de productos basicos en EEUU.json","r",encoding="utf-8") as f:
          paises_con_precios=json.load(f)["precios de los paises con mas importaciones en Cuba"]
 #funcion busqueda que devuelve una lista con los productos que coinciden ej:sal y galleta salada son coincidentes
@@ -184,6 +187,22 @@ mipymes_ordenadas_por_cantidad_de_productos=['018', '012', '003', '007', '021', 
 #porciento respecto al precio en Cuba
 def porciento(pais,producto):
  if producto =="harina 1kg":
+   return round(paises_con_precios[pais][producto]/mediana_dolar("harina",None,None,1000)*100,1)
+ if producto =="arroz 1kg":
+   return round(paises_con_precios[pais][producto]/mediana_dolar("arroz",None,None,1000)*100,1)
+ if producto =="azucar 1kg":
+   return round(paises_con_precios[pais][producto]/mediana_dolar("azucar blanca",None,None,1000)*100,1)
+ if producto =="sal 1kg":
+   return round(paises_con_precios[pais][producto]/mediana_dolar("sal",None,None,1000)*100,1)
+ if producto =="leche 1L":
+   return round(paises_con_precios[pais][producto]/mediana_dolar("leche liquida",None,None,1000)*100,1)
+ if producto =="12 huevos":
+   return round(paises_con_precios[pais][producto]/(mediana_dolar("carton de huevos")/2.5)*100,1)
+ if producto =="aceite 1L":
+   return round(paises_con_precios[pais][producto]/mediana_dolar("aceite",None,None,1000)*100,1)
+#diferencia de prociento respecto al precio en Cuba
+def porciento_diferencia(pais,producto):
+ if producto =="harina 1kg":
    return round(paises_con_precios[pais][producto]/mediana_dolar("harina",None,None,1000)*100-100,1)
  if producto =="arroz 1kg":
    return round(paises_con_precios[pais][producto]/mediana_dolar("arroz",None,None,1000)*100-100,1)
@@ -193,10 +212,11 @@ def porciento(pais,producto):
    return round(paises_con_precios[pais][producto]/mediana_dolar("sal",None,None,1000)*100-100,1)
  if producto =="leche 1L":
    return round(paises_con_precios[pais][producto]/mediana_dolar("leche liquida",None,None,1000)*100-100,1)
- if producto =="medio carton de huevos":
-   return round(paises_con_precios[pais][producto]/(mediana_dolar("carton de huevos")/2)*100-100,1)
+ if producto =="12 huevos":
+   return round(paises_con_precios[pais][producto]/(mediana_dolar("carton de huevos")/2.5)*100-100,1)
  if producto =="aceite 1L":
-   return round(paises_con_precios[pais][producto]/mediana_dolar("aceite",None,None,1000)*100-100,1)
+   return round(paises_con_precios[pais][producto]/mediana_dolar("aceite",None,None,1000)*100-100,1) 
+ 
 
 
 
