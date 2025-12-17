@@ -13,11 +13,10 @@ def primer_grafico():
             bl.cantidad_por_salario("frijoles negros",None,None,1000),bl.cantidad_por_salario("sal",None,None,1000),
             bl.cantidad_por_salario("azucar blanca",None,None,1000)]
       plt.figure(figsize=(20, 8),dpi=100,facecolor="lightgray")
-      plt.plot(productos_basicos, cantidad, marker="o", color="red", linewidth=4)
       plt.bar(productos_basicos, cantidad,color=["yellow", "green", "black", "blue","white"],
              edgecolor='black',linewidth=3)
-      plt.title("Analisis de obtencion de productos basicos con el salario medio en Cuba(La Habana)",fontsize=15,color="Black",fontweight='bold',pad=10)
-      plt.xlabel("Alimentos basicos 1 kilo/litro",fontsize=20,labelpad=15)
+      plt.title("Análisis de obtención de productos básicos con el salario medio en Cuba(La Habana)",fontsize=15,color="Black",fontweight='bold',pad=10)
+      plt.xlabel("Alimentos básicos 1 kilo/litro",fontsize=20,labelpad=15)
       plt.ylabel("Cantidad que se puede obtener",fontsize=20)
       return plt.show()
 
@@ -30,7 +29,7 @@ def segundo_grafico():
       plt.figure(figsize=(20,8), dpi=100,facecolor="#4c9297")
       plt.bar(productos_basicos,cantidad,color="#0d0a99")
       plt.title("Precios de productos populares en las mipymes",fontsize=20)
-      plt.xlabel("Productos mas populares en las mipymes",fontsize=20,labelpad=15)
+      plt.xlabel("Productos más populares en las mipymes",fontsize=20,labelpad=15)
       plt.ylabel("Precio medio por producto(CUP)",fontsize=20)
       plt.legend()
       return plt.show()
@@ -56,7 +55,7 @@ def tercer_grafico():
                bl.mediana_producto("leche en polvo",None,None,1000)+bl.mediana_producto("papel sanitario",None,None,4)+bl.mediana_producto("carton de huevos")+bl.mediana_producto("cafe molido",None,None,284)+
                bl.mediana_producto("champu")]
       plt.figure(figsize=(20,8), dpi=100,facecolor="#19d0dd")
-      plt.title("Precios de tipos de canasta en relacion al salario medio en Cuba(La Habana)",fontsize=20)
+      plt.title("Precios de tipos de canasta en relación al salario medio en Cuba(La Habana)",fontsize=20)
       plt.bar(canastas,precio,color=["#FF6B6B","#FFD93D","#6BCB77"])
       plt.axhline(y=salarios_medios["La Habana"],color="black",linestyle="--",linewidth=3, label=f"salario medio en Cuba(La Habana){salarios_medios["La Habana"]}")
       plt.xlabel("Canastas establecidas para una persona",fontsize=20,labelpad=15)
@@ -93,7 +92,7 @@ def cuarto_grafico():
       plt.barh(pos_bras, precios_Brasil, ancho_barra, color="#2158AC", label="Brasil")
       plt.barh(pos_chin, precios_China, ancho_barra, color="#AEB11C", label="China")
       plt.barh(pos_cub, precios_Cuba, ancho_barra, color="#00D9FF", label="Cuba")
-      plt.title("Precios de productos basicos(USD) en Cuba(La Habana) y sus mayores importadores",fontsize=20)
+      plt.title("Precios de productos básicos(USD) en Cuba(La Habana) y sus mayores importadores",fontsize=20)
       plt.xlabel("Precios de los productos(USD)",fontsize=20,labelpad=15)
       plt.yticks( posiciones,productos, fontsize=14)
       plt.ylabel("Productos",fontsize=20)
@@ -122,7 +121,7 @@ def quinto_grafico():
       plt.bar(pos_bras,porciento_Brasil,ancho_barra,color="#2158AC",label="Brasil")
       plt.bar(pos_chin,porciento_China,ancho_barra,color="#AEB11C",label="China")
       plt.axhline(y=100,color="black",linestyle="--",linewidth=3, label="Cuba 100%")
-      plt.title("Relacion entre el precio de los productos de los mayores importadores con respecto a Cuba(La Habana)",fontsize=20)
+      plt.title("Relación entre el precio de los productos de los mayores importadores con respecto a Cuba(La Habana)",fontsize=20)
       plt.xticks( posiciones,productos, fontsize=14)
       plt.xlabel("Productos",fontsize=20,labelpad=15)
       plt.ylabel("Porcientos",fontsize=20)
