@@ -10,23 +10,23 @@ lista=['plaz_1.json', 'plaz_2.json', 'plaz_3.json', 'plaz_4.json', 'plaz_5.json'
  "plaz_26.json","plaz_27.json","plaz_28.json","plaz_29.json","plaz_30.json"]
 #creando una lista con todos los productos de las mipymes
 for i in lista:
-     with open(f"E:/universidad/proyecto CD NO TOCAR/data/mipymes/{i}","r",encoding="utf-8") as f:
+     with open(f"data/mipymes/{i}","r",encoding="utf-8") as f:
          datos=json.load(f)
      lista_de_productos.extend(datos["productos"])
 #creando diccionario de los productos por cada mipyme en un diccionario
 for i in lista:
-     with open(f"E:/universidad/proyecto CD NO TOCAR/data/mipymes/{i}","r",encoding="utf-8") as f:
+     with open(f"data/mipymes/{i}","r",encoding="utf-8") as f:
          datos=json.load(f)
      diccionario[contador]=datos["productos"]
      contador+=1
 #creando la variable salarios medios que es un diccionario con las provincias y sus salarios medios como valores
-with open("E:/universidad/proyecto CD NO TOCAR/data/salarios medios.json","r",encoding="utf-8") as f:
+with open("data/salarios medios.json","r",encoding="utf-8") as f:
          salarios_medios=json.load(f)["salario por provincia"]
 #creando la variable precio actual del dolar que toma el ultimo valor del dolar por el Toque
-with open("E:/universidad/proyecto CD NO TOCAR/data/precio_dolar.json","r",encoding="utf-8") as f:
+with open("data/precio_dolar.json","r",encoding="utf-8") as f:
          precio_actual_del_dolar_Cuba=json.load(f)["datos"][-1]["precio"]
 #creando la variable paises con precios que es un diccionario con los mayores importadores de Cuba que tiene como valores otro diccionario que tiene los productos basicos y sus precios
-with open("E:/universidad/proyecto CD NO TOCAR/data/costo de productos basicos en importadores.json","r",encoding="utf-8") as f:
+with open("data/costo de productos basicos en importadores.json","r",encoding="utf-8") as f:
          paises_con_precios=json.load(f)["precios de los paises con mas importaciones en Cuba"]
 #funcion busqueda que devuelve una lista con los productos que coinciden ej:sal y galleta salada son coincidentes
 def busqueda_coincidencias(tipo=None,marca=None,unidad=None,pesaje=None,precio=None):
@@ -170,7 +170,7 @@ mipymes_ordenadas_por_cantidad_de_productos=[]
 contador=0
 for i in lista:
      y=contador
-     with open(f"E:/universidad/proyecto CD NO TOCAR/data/mipymes/{i}","r",encoding="utf-8") as f:
+     with open(f"data/mipymes/{i}","r",encoding="utf-8") as f:
          datos=json.load(f)
      _.append([datos["ID"]])
      _[y].extend(datos["productos"])

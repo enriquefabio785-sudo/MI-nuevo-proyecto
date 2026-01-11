@@ -1,9 +1,9 @@
 import matplotlib.pyplot as plt
 import json
 import biblioteca_proyecto as bl
-with open("E:/universidad/proyecto CD NO TOCAR/data/salarios medios.json","r",encoding="utf-8") as f:
+with open("data/salarios medios.json","r",encoding="utf-8") as f:
          salarios_medios=json.load(f)["salario por provincia"]
-with open("E:/universidad/proyecto CD NO TOCAR/data/costo de productos basicos en EEUU.json","r",encoding="utf-8") as f:
+with open("data/costo de productos basicos en importadores.json","r",encoding="utf-8") as f:
          paises_con_precios=json.load(f)["precios de los paises con mas importaciones en Cuba"]
 
 #---------------------------------------------------------------------------Primer grafico---------------------------------------------------------------------------------------------
