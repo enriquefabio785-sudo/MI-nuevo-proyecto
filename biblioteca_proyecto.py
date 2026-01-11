@@ -26,7 +26,7 @@ with open("E:/universidad/proyecto CD NO TOCAR/data/salarios medios.json","r",en
 with open("E:/universidad/proyecto CD NO TOCAR/data/precio_dolar.json","r",encoding="utf-8") as f:
          precio_actual_del_dolar_Cuba=json.load(f)["datos"][-1]["precio"]
 #creando la variable paises con precios que es un diccionario con los mayores importadores de Cuba que tiene como valores otro diccionario que tiene los productos basicos y sus precios
-with open("E:/universidad/proyecto CD NO TOCAR/data/costo de productos basicos en EEUU.json","r",encoding="utf-8") as f:
+with open("E:/universidad/proyecto CD NO TOCAR/data/costo de productos basicos en importadores.json","r",encoding="utf-8") as f:
          paises_con_precios=json.load(f)["precios de los paises con mas importaciones en Cuba"]
 #funcion busqueda que devuelve una lista con los productos que coinciden ej:sal y galleta salada son coincidentes
 def busqueda_coincidencias(tipo=None,marca=None,unidad=None,pesaje=None,precio=None):
