@@ -31,7 +31,6 @@ def segundo_grafico():
       plt.title("Precios de productos populares en las mipymes",fontsize=20)
       plt.xlabel("Productos más populares en las mipymes",fontsize=20,labelpad=15)
       plt.ylabel("Precio medio por producto(CUP)",fontsize=20)
-      plt.legend()
       return plt.show()
 
 
